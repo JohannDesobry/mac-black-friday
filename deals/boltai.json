@@ -1,0 +1,17 @@
+{
+  "name": "BoltAI",
+  "url": "https://boltai.com/pricing",
+  "platforms": ["macOS", "iOS"],
+  "category": "ai",
+  "description": "The native AI workspace: chats, agents and projects with ChatGPT, Claude, Gemini and local AI models.",
+  "discount": "40% off",
+  "code": "BFCM2026",
+  "prices": [
+    { "plan": "Pro", "before": 99, "after": 59 },
+    { "plan": "Lifetime", "before": 399, "after": 239 }
+  ],
+  "ends": "2026-12-01",
+  "maker": "Daniel Nguyen",
+  "makerUrl": "https://x.com/daniel_nguyenx",
+  "featured": true
+}

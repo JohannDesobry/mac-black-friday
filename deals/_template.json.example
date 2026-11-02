@@ -1,0 +1,13 @@
+{
+  "name": "Your App",
+  "url": "https://yourapp.com/pricing",
+  "platforms": ["macOS", "iOS"],
+  "category": "productivity",
+  "description": "What your app does, in one sentence.",
+  "discount": "40% off",
+  "code": "BLACKFRIDAY",
+  "prices": [{ "plan": "Lifetime", "before": 49, "after": 29 }],
+  "ends": "2026-12-01",
+  "maker": "Your Name",
+  "makerUrl": "https://yourapp.com"
+}

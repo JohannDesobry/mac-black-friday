@@ -1,0 +1,14 @@
+{
+  "name": "KTool",
+  "url": "https://ktool.io/pricing#lifetime",
+  "platforms": ["macOS", "iOS"],
+  "category": "reading",
+  "description": "Send articles, newsletters and RSS feeds to your Kindle, from your browser or your phone.",
+  "discount": "Lifetime $149",
+  "prices": [{ "plan": "Lifetime", "after": 149 }],
+  "terms": "Everything in Platinum, pay once.",
+  "ends": "2026-12-01",
+  "maker": "Daniel Nguyen",
+  "makerUrl": "https://x.com/daniel_nguyenx",
+  "featured": true
+}

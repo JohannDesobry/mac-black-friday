@@ -1,0 +1,16 @@
+[
+  { "id": "ai", "name": "AI" },
+  { "id": "productivity", "name": "Productivity" },
+  { "id": "developer", "name": "Developer Tools" },
+  { "id": "writing", "name": "Writing and Notes" },
+  { "id": "reading", "name": "Reading and Research" },
+  { "id": "design", "name": "Design and Photo" },
+  { "id": "audio-video", "name": "Audio and Video" },
+  { "id": "utilities", "name": "Utilities and Menu Bar" },
+  { "id": "security", "name": "Privacy and Security" },
+  { "id": "health", "name": "Health and Fitness" },
+  { "id": "finance", "name": "Finance" },
+  { "id": "education", "name": "Education" },
+  { "id": "games", "name": "Games" },
+  { "id": "other", "name": "Other" }
+]

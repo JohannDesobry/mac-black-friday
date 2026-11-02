@@ -1,0 +1,148 @@
+{
+  "updatedAt": "2026-11-02T05:37:40.381Z",
+  "categories": [
+    {
+      "id": "ai",
+      "name": "AI"
+    },
+    {
+      "id": "productivity",
+      "name": "Productivity"
+    },
+    {
+      "id": "developer",
+      "name": "Developer Tools"
+    },
+    {
+      "id": "writing",
+      "name": "Writing and Notes"
+    },
+    {
+      "id": "reading",
+      "name": "Reading and Research"
+    },
+    {
+      "id": "design",
+      "name": "Design and Photo"
+    },
+    {
+      "id": "audio-video",
+      "name": "Audio and Video"
+    },
+    {
+      "id": "utilities",
+      "name": "Utilities and Menu Bar"
+    },
+    {
+      "id": "security",
+      "name": "Privacy and Security"
+    },
+    {
+      "id": "health",
+      "name": "Health and Fitness"
+    },
+    {
+      "id": "finance",
+      "name": "Finance"
+    },
+    {
+      "id": "education",
+      "name": "Education"
+    },
+    {
+      "id": "games",
+      "name": "Games"
+    },
+    {
+      "id": "other",
+      "name": "Other"
+    }
+  ],
+  "deals": [
+    {
+      "id": "boltai",
+      "name": "BoltAI",
+      "url": "https://boltai.com/pricing",
+      "platforms": [
+        "macOS",
+        "iOS"
+      ],
+      "category": "ai",
+      "description": "The native AI workspace: chats, agents and projects with ChatGPT, Claude, Gemini and local AI models.",
+      "discount": "40% off",
+      "code": "BFCM2026",
+      "prices": [
+        {
+          "plan": "Pro",
+          "before": 99,
+          "after": 59
+        },
+        {
+          "plan": "Lifetime",
+          "before": 399,
+          "after": 239
+        }
+      ],
+      "ends": "2026-12-01",
+      "maker": "Daniel Nguyen",
+      "makerUrl": "https://x.com/daniel_nguyenx",
+      "featured": true
+    },
+    {
+      "id": "ktool",
+      "name": "KTool",
+      "url": "https://ktool.io/pricing#lifetime",
+      "platforms": [
+        "macOS",
+        "iOS"
+      ],
+      "category": "reading",
+      "description": "Send articles, newsletters and RSS feeds to your Kindle, from your browser or your phone.",
+      "discount": "Lifetime $149",
+      "prices": [
+        {
+          "plan": "Lifetime",
+          "after": 149
+        }
+      ],
+      "terms": "Everything in Platinum, pay once.",
+      "ends": "2026-12-01",
+      "maker": "Daniel Nguyen",
+      "makerUrl": "https://x.com/daniel_nguyenx",
+      "featured": true
+    },
+    {
+      "id": "pdf-pals",
+      "name": "PDF Pals",
+      "url": "https://pdfpals.com/buy",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "reading",
+      "description": "Chat with your documents on Mac with built-in local AI models. Word, Excel, PowerPoint, EPUB, Markdown and PDF.",
+      "discount": "Lifetime $149",
+      "prices": [
+        {
+          "plan": "Lifetime",
+          "before": 249,
+          "after": 149
+        },
+        {
+          "plan": "Basic",
+          "before": 59,
+          "after": 47.2
+        },
+        {
+          "plan": "Plus",
+          "before": 99,
+          "after": 79.2
+        }
+      ],
+      "terms": "Lifetime needs no code; Basic and Plus get 20% off at checkout.",
+      "ends": "2026-12-01",
+      "maker": "Daniel Nguyen",
+      "makerUrl": "https://x.com/daniel_nguyenx",
+      "featured": true
+    }
+  ]
+}
