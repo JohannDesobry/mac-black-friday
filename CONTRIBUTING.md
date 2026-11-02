@@ -6,8 +6,6 @@
 
 **Or by hand:** fork this repo, copy `deals/_template.json.example` to `deals/your-app-name.json`, fill it in and open a pull request. One file per app, nothing else in the diff.
 
-A bot reviews every pull request within a minute, comments with anything to fix, and labels it **ready** or **needs changes**. You don't need to touch `README.md`; it is rebuilt after merging.
-
 ## Fields
 
 | Field | Required | Notes |
@@ -37,7 +35,3 @@ This is a curated list. Deals are merged when they are:
 - One entry per app, and at most three apps per GitHub account.
 
 Not accepted: courses, books, templates, boilerplates, bundles or links to other deal lists.
-
-## Featured spots
-
-A small number of paid featured spots sit at the top of [boltai.com/blackfriday](https://boltai.com/blackfriday), with a highlighted card. Details are coming soon.

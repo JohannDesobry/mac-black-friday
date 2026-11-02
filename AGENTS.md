@@ -6,8 +6,6 @@ This repo lists Black Friday deals on Mac, iPhone and iPad apps. Each deal is on
 2. Write `deals/<app-name>.json` (lowercase, dashes) in the format below. Leave out any optional field you can't confirm from the page. Never invent prices or dates.
 3. If you can use git and the GitHub CLI (`gh`): fork this repo, add the file on a new branch, and open a pull request titled `Add <App name> (Black Friday 2026)`. Change nothing else. Otherwise, give the person the JSON and this link to open the pull request in the browser: https://boltai.com/blackfriday/submit
 
-A bot reviews the pull request within a minute and comments if anything needs fixing.
-
 ## Format
 
 ```json
@@ -34,6 +32,6 @@ Required: `name`, `url`, `platforms`, `category`, `discount`, `ends`. Everything
 - `prices`: USD numbers; `before` must be higher than `after`. Leave out `before` if the page doesn't show it.
 - `ends`: `YYYY-MM-DD`, between 2026-11-20 and 2026-12-15. Use `2026-12-01` if the page gives no end date.
 - Optional too: `starts` (November or later), `terms` (up to 160 characters), `makerUrl`, `icon` (https link to a square icon).
-- Never set `featured`; maintainers set it for paid spots.
+- Never set `featured`.
 
 Only finished Mac and iOS apps with a real Black Friday price shown on their own page are merged. See [CONTRIBUTING.md](CONTRIBUTING.md).
