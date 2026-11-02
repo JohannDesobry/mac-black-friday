@@ -46,4 +46,4 @@ Curated. Deals that don't fit are closed.
 
 ---
 
-Curated by [Daniel Nguyen](https://x.com/daniel_nguyenx), maker of BoltAI, PDF Pals and KTool. This file is generated from `deals/`; edit those files, not the tables above.
+Curated by [Daniel Nguyen](https://x.com/daniel_nguyenx), maker of BoltAI, PDF Pals and KTool.
