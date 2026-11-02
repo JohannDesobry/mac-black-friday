@@ -25,13 +25,6 @@
 | `makerUrl` | no | Your site or X profile |
 | `icon` | no | https link to a square app icon (256 px or more) |
 
-## What gets merged
+## Rules
 
-This is a curated list. Deals are merged when they are:
-
-- For an app that runs on Mac, iPhone, iPad, Apple Vision Pro or Apple Watch, and is finished and maintained.
-- A real Black Friday price: shown on the linked page with the discount and the dates.
-- Open to everyone: no "follow us to get the code", no waitlists, pre-orders, or "free while in beta".
-- One entry per app, and at most three apps per GitHub account.
-
-Not accepted: courses, books, templates, boilerplates, bundles or links to other deal lists.
+See the [rules](README.md#rules).

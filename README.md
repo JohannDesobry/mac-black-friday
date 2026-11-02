@@ -1,10 +1,31 @@
 # Mac and iOS Black Friday Deals 2026
 
-Hand-picked Black Friday and Cyber Monday deals on apps for Mac, iPhone and iPad, from indie developers and small studios.
+Hand-picked Black Friday and Cyber Monday deals on Mac, iPhone and iPad apps from indie developers.
 
-Browse, search and filter them at **[boltai.com/blackfriday](https://boltai.com/blackfriday)**.
+- 🛍 Browse, search and filter: **[boltai.com/blackfriday](https://boltai.com/blackfriday)**
+- ➕ Add your deal: **[boltai.com/blackfriday/submit](https://boltai.com/blackfriday/submit)**
+- ⭐ Star this repo so it trends on Black Friday
 
-Got a Mac or iOS app on sale? [Add your deal](CONTRIBUTING.md) with a pull request. It's free.
+## Rules
+
+Curated. Deals that don't fit are closed.
+
+- Apps for Mac, iPhone, iPad, Apple Vision Pro or Apple Watch only. Finished and maintained.
+- A real Black Friday deal, shown on your own page with the price and the dates. Running between Nov 1 and Dec 15.
+- One entry per app. Up to three apps per GitHub account.
+- One deal file per pull request, nothing else in the diff.
+
+🚫 Not accepted:
+
+- 100% off or "free while in beta"
+- "Price goes up soon" deals
+- Pre-orders and waitlists
+- Shortened links, or links to other deal lists and bundles
+- Deals that need a follow, like, subscribe or email to get the code
+- Hidden prices, or prices you only see after signing up
+- Courses, books, templates, boilerplates, themes and plugins
+
+## Deals
 
 <!-- deals:start -->
 
