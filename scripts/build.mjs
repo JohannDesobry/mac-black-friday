@@ -25,7 +25,7 @@ for (const category of categories) {
   const rows = deals.filter((d) => d.category === category.id).sort((a, b) => Number(b.featured) - Number(a.featured) || a.name.localeCompare(b.name))
   if (!rows.length) continue
   sections.push(`### ${category.name}\n\n| App | Platforms | What it does | Deal |\n| --- | --- | --- | --- |\n` +
-    rows.map((d) => `| [${cell(d.name)}](${d.url}) | ${d.platforms.join(', ')} | ${cell(d.description)} | ${cell(offer(d))} |`).join('\n'))
+    rows.map((d) => `| [${cell(d.name)}](${d.url}) | ${d.platforms.join(', ')} | ${cell(d.description || '')} | ${cell(offer(d))} |`).join('\n'))
 }
 
 const readmePath = join(root, 'README.md')

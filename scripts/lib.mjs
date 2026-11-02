@@ -44,7 +44,7 @@ export function validateDeal(file, deal, categoryIds) {
   if (!/^[a-z0-9]+(-[a-z0-9]+)*$/.test(slug)) errors.push('file name must be lowercase-with-dashes.json')
 
   for (const key of Object.keys(deal)) if (!FIELDS.includes(key)) errors.push(`unknown field "${key}"`)
-  for (const key of ['name', 'url', 'platforms', 'category', 'description', 'discount', 'ends', 'maker'])
+  for (const key of ['name', 'url', 'platforms', 'category', 'discount', 'ends'])
     if (deal[key] === undefined || deal[key] === '') errors.push(`"${key}" is required`)
 
   if (deal.url) checkUrl(deal.url, '"url"', errors)

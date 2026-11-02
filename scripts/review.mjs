@@ -3,7 +3,7 @@
 // fetched through the GitHub API and only parsed as JSON.
 import { readCategories, readDeals, validateDeal } from './lib.mjs'
 
-const { GITHUB_TOKEN, GITHUB_REPOSITORY, PR_NUMBER, HEAD_SHA } = process.env
+const { GITHUB_TOKEN, GITHUB_REPOSITORY, PR_NUMBER, HEAD_SHA, PR_AUTHOR } = process.env
 const MARKER = '<!-- deal-review -->'
 const LABELS = { ready: { name: 'ready', color: '2da44e' }, changes: { name: 'needs changes', color: 'd93f0b' } }
 
@@ -77,8 +77,15 @@ async function main() {
         const same = others.find((d) => key(d.deal.url) === key(deal.url))
         if (same) problems.push(`This app is already listed in \`deals/${same.file}\`. One entry per app.`)
       } catch {}
-      const sameMaker = others.filter((d) => d.deal.maker === deal.maker).length
-      if (sameMaker >= 3) problems.push(`${deal.maker} already has ${sameMaker} apps listed. The limit is 3 per maker.`)
+      // The 3-apps-per-maker limit counts this GitHub account's merged deal pull requests.
+      if (PR_AUTHOR) {
+        const query = encodeURIComponent(`repo:${GITHUB_REPOSITORY} is:pr is:merged author:${PR_AUTHOR}`)
+        const response = await fetch(`https://api.github.com/search/issues?q=${query}`, {
+          headers: { Authorization: `Bearer ${GITHUB_TOKEN}`, Accept: 'application/vnd.github+json' },
+        })
+        const merged = response.ok ? (await response.json()).total_count : 0
+        if (merged >= 3) problems.push(`@${PR_AUTHOR} already has ${merged} deals listed. The limit is 3 per maker.`)
+      }
       if (deal.featured) problems.push('`featured` is set by the maintainers for paid spots. Please remove it.')
 
       if (deal.url) {
@@ -96,7 +103,7 @@ async function main() {
   const ready = problems.length === 0
   const lines = [MARKER]
   if (ready) {
-    lines.push(`Thanks${deal?.maker ? ', ' + deal.maker : ''}! **${deal.name}** passes the checks.`)
+    lines.push(`Thanks${PR_AUTHOR ? ', @' + PR_AUTHOR : ''}! **${deal.name}** passes the checks.`)
     if (page?.reachable && page.sale && (page.priceShown || !deal.prices?.length)) lines.push('', 'Its page shows the Black Friday offer. A maintainer will merge it soon.')
     else lines.push('', 'A maintainer will look at the linked page and merge it once the Black Friday price and dates are shown there.')
   } else {
