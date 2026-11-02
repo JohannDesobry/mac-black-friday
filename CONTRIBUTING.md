@@ -1,10 +1,14 @@
 # Add your deal
 
+The easiest way: fill in the form at [boltai.com/blackfriday/submit](https://boltai.com/blackfriday/submit). It opens GitHub with your deal file ready; click **Propose changes**, then **Create pull request**.
+
+Or by hand:
+
 1. Fork this repo.
 2. Copy `deals/_template.json.example` to `deals/your-app-name.json` (lowercase, dashes).
 3. Fill it in and open a pull request. One file per app, nothing else in the diff.
 
-A check runs on every pull request and tells you what to fix. You don't need to touch `README.md`; it is rebuilt after merging.
+A bot reviews every pull request within a minute, comments with anything to fix, and labels it **ready** or **needs changes**. You don't need to touch `README.md`; it is rebuilt after merging.
 
 ## Fields
 
