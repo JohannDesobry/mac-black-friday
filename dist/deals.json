@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T10:10:45.276Z",
+  "updatedAt": "2026-11-02T10:15:56.534Z",
   "categories": [
     {
       "id": "ai",
@@ -102,6 +102,7 @@
       "prices": [
         {
           "plan": "Lifetime",
+          "before": 179,
           "after": 149
         }
       ],
@@ -138,7 +139,6 @@
           "after": 79.2
         }
       ],
-      "terms": "Lifetime needs no code; Basic and Plus get 20% off at checkout.",
       "ends": "2026-12-01",
       "maker": "Daniel Nguyen",
       "makerUrl": "https://x.com/daniel_nguyenx",

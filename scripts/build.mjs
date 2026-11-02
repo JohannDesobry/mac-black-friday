@@ -1,23 +1,31 @@
 // Writes dist/deals.json (read by boltai.com/blackfriday) and the deal tables in README.md.
-import { mkdirSync, readFileSync, writeFileSync } from 'node:fs'
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs'
 import { join } from 'node:path'
 import { readCategories, readDeals, root } from './lib.mjs'
 
 const categories = readCategories()
 const deals = readDeals().map(({ file, deal }) => ({ id: file.replace(/\.json$/, ''), ...deal }))
 
+// updatedAt only moves when a deal or category changes, so README-only pushes don't produce a rebuild commit.
 mkdirSync(join(root, 'dist'), { recursive: true })
-writeFileSync(join(root, 'dist/deals.json'), JSON.stringify({ updatedAt: new Date().toISOString(), categories, deals }, null, 2) + '\n')
+const distPath = join(root, 'dist/deals.json')
+const previous = existsSync(distPath) ? JSON.parse(readFileSync(distPath, 'utf8')) : null
+const unchanged = previous && JSON.stringify({ categories: previous.categories, deals: previous.deals }) === JSON.stringify({ categories, deals })
+const updatedAt = unchanged ? previous.updatedAt : new Date().toISOString()
+writeFileSync(distPath, JSON.stringify({ updatedAt, categories, deals }, null, 2) + '\n')
 
 const money = (n) => `$${Number.isInteger(n) ? n : n.toFixed(2)}`
 const cell = (text) => String(text).replace(/\|/g, '\\|').replace(/\n/g, ' ')
 function offer(deal) {
-  const parts = [`**${deal.discount}**`]
+  const price = (p) => `${p.plan} ${p.before ? `~~${money(p.before)}~~ ` : ''}${money(p.after)}`
+  // When the headline is one of the prices ("Lifetime $149"), show that price once, struck through if it has one.
+  const same = (deal.prices || []).find((p) => `${p.plan} ${money(p.after)}`.toLowerCase() === deal.discount.toLowerCase())
+  const parts = [`**${same ? price(same) : deal.discount}**`]
   if (deal.code) parts.push(`code **${deal.code}**`)
-  for (const p of deal.prices || []) parts.push(p.before ? `${p.plan} ~~${money(p.before)}~~ ${money(p.after)}` : `${p.plan} ${money(p.after)}`)
-  if (deal.terms) parts.push(deal.terms)
+  for (const p of deal.prices || []) if (p !== same) parts.push(price(p))
+  if (deal.terms) parts.push(deal.terms.replace(/\.$/, ''))
   parts.push(`until ${new Date(deal.ends + 'T00:00:00Z').toLocaleDateString('en-US', { month: 'short', day: 'numeric', timeZone: 'UTC' })}`)
-  return parts.join(', ')
+  return parts.join(' · ')
 }
 
 const sections = []

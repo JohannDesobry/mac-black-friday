@@ -34,4 +34,4 @@ Required: `name`, `url`, `platforms`, `category`, `discount`, `ends`. Everything
 - Optional too: `starts` (November or later), `terms` (up to 160 characters), `makerUrl`, `icon` (https link to a square icon).
 - Never set `featured`.
 
-Only finished Mac and iOS apps with a real Black Friday price shown on their own page are merged. See [CONTRIBUTING.md](CONTRIBUTING.md).
+Only finished Mac and iOS apps with a real Black Friday price shown on their own page are merged. See [RULES.md](RULES.md).

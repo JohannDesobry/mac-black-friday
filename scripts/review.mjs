@@ -107,7 +107,7 @@ async function main() {
     if (page?.reachable && page.sale && (page.priceShown || !deal.prices?.length)) lines.push('', 'Its page shows the Black Friday offer. A maintainer will merge it soon.')
     else lines.push('', 'A maintainer will look at the linked page and merge it once the Black Friday price and dates are shown there.')
   } else {
-    lines.push('Thanks for adding your deal! A few things to fix first:', '', ...problems.map((p) => `- ${p}`), '', `Push a fix to this branch and I'll check again. The rules are in [CONTRIBUTING.md](https://github.com/${GITHUB_REPOSITORY}/blob/main/CONTRIBUTING.md).`)
+    lines.push('Thanks for adding your deal! A few things to fix first:', '', ...problems.map((p) => `- ${p}`), '', `Push a fix to this branch and I'll check again. Here are the [rules](https://github.com/${GITHUB_REPOSITORY}/blob/main/RULES.md).`)
   }
   if (notes.length) lines.push('', '**About the linked page**', '', ...notes.map((n) => `- ${n}`))
   const body = lines.join('\n')
