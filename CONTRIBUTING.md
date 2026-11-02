@@ -27,4 +27,4 @@
 
 ## Rules
 
-See the [rules](README.md#rules).
+See [RULES.md](RULES.md).

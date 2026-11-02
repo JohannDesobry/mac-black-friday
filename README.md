@@ -1,29 +1,28 @@
 # Mac and iOS Black Friday Deals 2026
 
-Hand-picked Black Friday and Cyber Monday deals on Mac, iPhone and iPad apps from indie developers.
+Hand-picked Black Friday deals on Mac, iPhone and iPad apps from indie developers.
 
-- 🛍 Browse, search and filter: **[boltai.com/blackfriday](https://boltai.com/blackfriday)**
-- ➕ Add your deal: **[boltai.com/blackfriday/submit](https://boltai.com/blackfriday/submit)**
+- ✅ Every deal is checked by me, [Daniel Nguyen](https://x.com/daniel_nguyenx). Real discounts on finished apps only.
+- 🍎 Mac and iOS apps only. I build native Mac and iOS apps myself, so I can judge an app's quality.
+- 📣 My favorite indie deals get shared with my 77k followers on X.
+
+➕ Add your deal: [boltai.com/blackfriday/submit](https://boltai.com/blackfriday/submit) · [Rules](RULES.md)<br>
+🛍 Browse and search: [boltai.com/blackfriday](https://boltai.com/blackfriday)
+
+Don't forget to:
+
 - ⭐ Star this repo so it trends on Black Friday
+- 🔖 Bookmark it for 2027
 
-## Rules
+## Sponsored deals
 
-Curated. Deals that don't fit are closed.
+Hi! I build native Mac and iOS apps and maintain this list. Follow me on [X](https://x.com/daniel_nguyenx).
 
-- Apps for Mac, iPhone, iPad, Apple Vision Pro or Apple Watch only. Finished and maintained.
-- A real Black Friday deal, shown on your own page with the price and the dates. Running between Nov 1 and Dec 15.
-- One entry per app. Up to three apps per developer.
-- One deal file per pull request, nothing else in the diff.
-
-🚫 Not accepted:
-
-- 100% off or "free while in beta"
-- "Price goes up soon" deals
-- Pre-orders and waitlists
-- Shortened links, or links to other deal lists and bundles
-- Deals that need a follow, like, subscribe or email to get the code
-- Hidden prices, or prices you only see after signing up
-- Courses, books, templates, boilerplates, themes and plugins
+| [BoltAI](https://boltai.com/pricing?utm_source=mac-black-friday) | [PDF Pals](https://pdfpals.com/buy?utm_source=mac-black-friday) | [KTool](https://ktool.io/pricing?utm_source=mac-black-friday) |
+| --- | --- | --- |
+| <a href="https://boltai.com/pricing?utm_source=mac-black-friday"><img src="https://boltai.com/assets/bf/boltai-icon-dark.png" width="64" alt="BoltAI"></a> | <a href="https://pdfpals.com/buy?utm_source=mac-black-friday"><img src="https://boltai.com/assets/bf/pdfpals-icon.png" width="64" alt="PDF Pals"></a> | <a href="https://ktool.io/pricing?utm_source=mac-black-friday"><img src="https://boltai.com/assets/bf/ktool-icon.png" width="64" alt="KTool"></a> |
+| The native AI workspace for Mac. ChatGPT, Claude, Gemini and local AI models. | Chat with your PDF, Word, Excel, PowerPoint and EPUB files on Mac, with local AI models. | Send articles, newsletters and RSS feeds to your Kindle. |
+| **40% off** with code **BFCM2026**. From ~~$99~~ $59 | Lifetime ~~$249~~ $149. Basic and Plus 20% off | Lifetime ~~$179~~ $149 |
 
 ## Deals
 
@@ -43,7 +42,3 @@ Curated. Deals that don't fit are closed.
 | [PDF Pals](https://pdfpals.com/buy) | macOS | Chat with your documents on Mac with built-in local AI models. Word, Excel, PowerPoint, EPUB, Markdown and PDF. | **Lifetime $149**, Lifetime ~~$249~~ $149, Basic ~~$59~~ $47.20, Plus ~~$99~~ $79.20, Lifetime needs no code; Basic and Plus get 20% off at checkout., until Dec 1 |
 
 <!-- deals:end -->
-
----
-
-Curated by [Daniel Nguyen](https://x.com/daniel_nguyenx), maker of BoltAI, PDF Pals and KTool.
