@@ -1,6 +1,6 @@
 {
   "name": "Wealthfolio Connect",
-  "url": "https://wealthfolio.app/connect/",
+  "url": "https://wealthfolio.app/connect/black-friday/",
   "platforms": [
     "macOS",
     "iOS"
@@ -9,8 +9,8 @@
   "discount": "35% off first year (annual)",
   "description": "Encrypted device sync and backups for Wealthfolio; Essentials and Duo add automatic imports from supported brokerages",
   "code": "BLACKFRIDAY35",
-  "terms": "Upcoming Nov 15–30. Annual Basic, Essentials and Duo; first year only; renewals at regular price. Ends 11:59 p.m. Eastern.",
-  "starts": "2026-11-15",
+  "terms": "Nov 8–30, 2026. Annual Basic, Essentials and Duo; first year only; renewals at regular price. Ends Nov 30 at 11:59 p.m. Eastern.",
+  "starts": "2026-11-08",
   "ends": "2026-11-30",
   "makerUrl": "https://wealthfolio.app/"
 }
