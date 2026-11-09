@@ -5,10 +5,20 @@
     "macOS"
   ],
   "category": "developer",
-  "description": "Compare Git branches and resolve merge conflicts with ease on macOS.",
+  "description": "Compare Git branches and resolve merge conflicts with ease",
   "discount": "40% off",
   "code": "BLACKFRIDAY26",
-  "ends": "2026-12-01",
+  "prices": [
+    {
+      "plan": "One-time purchase",
+      "before": 40,
+      "after": 24
+    }
+  ],
+  "terms": "Direct purchase from juxtacode.app only, not the Mac App Store.",
   "starts": "2026-11-20",
-  "terms": "BLACKFRIDAY26; direct purchase from juxtacode.app only, not the Mac App Store; 2026-11-20 to 2026-12-01"
+  "ends": "2026-12-01",
+  "maker": "Yori Mihalakopoulos",
+  "makerUrl": "https://juxtacode.app",
+  "icon": "https://juxtacode.app/favicon/apple-touch-icon.png"
 }
