@@ -51,6 +51,14 @@ Hi! I build native Mac and iOS apps and maintain this list. Follow me on [X](htt
 | [SupaSidebar](https://supasidebar.com) | macOS | Arc-style sidebar for browser tabs, bookmarks, and Finder files, with fuzzy search. | **50% off Lifetime** · code **SIDEBARBF50** · SIDEBARBF50; one-time purchase; 2026-11-09 to 2026-12-07 · until Dec 7 |
 | [Wick](https://appsbymo.app/wick/) | macOS | Every deadline as a burning wick on your Mac: tasks, loans, subscriptions and renewals counting down where you can see them. | **50% off** · code **BLACKFRIDAY** · License ~~$15.99~~ $7.99 · with code BLACKFRIDAY at appsbymo.app (regular $14.99); Mac App Store $15.99 $7.99, no code. Nov 9 - Dec 1, 2026 · until Dec 1 |
 
+### Developer Tools
+
+| App | Platforms | What it does | Deal |
+| --- | --- | --- | --- |
+| [Device MCP](https://devicemcp.ai/) | macOS, iOS, iPadOS | Mirror and control iPhone and iPad from your Mac, with MCP tools for AI agents. | **30% off all plans** · code **BF2026** · BF2026; applies to early-bird prices; 2026-11-16 to 2026-12-03 · until Dec 3 |
+| [Proxyman](https://proxyman.com/) | macOS | Capture, inspect, and modify HTTP/HTTPS traffic with a native debugging proxy. | **30% off all plans** · code **BF2026** · BF2026; 2026-11-16 to 2026-12-03 · until Dec 3 |
+| [TCP Viewer](https://tcpviewer.proxyman.com/) | macOS | Capture and inspect TCP/UDP packets in a native macOS app. | **30% off all plans** · code **BF2026** · BF2026; 2026-11-16 to 2026-12-03 · until Dec 3 |
+
 ### Reading and Research
 
 | App | Platforms | What it does | Deal |
@@ -95,6 +103,12 @@ Hi! I build native Mac and iOS apps and maintain this list. Follow me on [X](htt
 | [SuperTab 7](https://noteifyapp.com/supertab/) | macOS | Apps, windows, and clipboard in one panel. | **30% off** · code **MACPLUSBLACKFRIDAY26** · Lifetime ~~$19.99~~ $13.99 · MACPLUSBLACKFRIDAY26; 2026-11-01 to 2026-11-30 · until Nov 30 |
 | [What Happened](https://appsbymo.app/whathappened/) | macOS | Tells you in plain words why your Mac is slow, hot or full, and fixes it with your OK. | **50% off** · code **BLACKFRIDAY** · with code BLACKFRIDAY at appsbymo.app (regular $13.99). Nov 9 - Dec 1, 2026 · until Dec 1 |
 | [Wins](https://wins.cool/) | macOS | Native macOS window manager with window snapping, Dock previews, and keyboard shortcuts. | **40% off** · code **BF_26** · Use BF_26 at checkout on Single, Pro, and X lifetime licenses and eligible update renewals. 2026-11-11 to 2026-12-01 · until Dec 1 |
+
+### Privacy and Security
+
+| App | Platforms | What it does | Deal |
+| --- | --- | --- | --- |
+| [TinyShield](https://tinyshield.proxyman.com/) | macOS | Monitor app connections and block unwanted apps or domains with a macOS firewall. | **30% off all plans** · code **BF2026** · BF2026; 2026-11-16 to 2026-12-03 · until Dec 3 |
 
 ### Health and Fitness
 
