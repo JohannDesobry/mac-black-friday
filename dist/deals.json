@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T13:20:32.896Z",
+  "updatedAt": "2026-11-09T13:20:46.228Z",
   "categories": [
     {
       "id": "ai",
@@ -219,6 +219,26 @@
       "ends": "2026-11-30",
       "starts": "2026-11-23",
       "terms": "BLACKFRIDAY; one-time purchase; 2026-11-23 to 2026-11-30 (Pacific time)"
+    },
+    {
+      "id": "crisp",
+      "name": "Crisp",
+      "url": "https://crispvideo.app/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "audio-video",
+      "description": "Offline video and photo upscaler and restorer for Mac (Apple silicon, macOS 14+) and Windows 10/11.",
+      "discount": "50% off",
+      "prices": [
+        {
+          "plan": "License",
+          "before": 29,
+          "after": 14.5
+        }
+      ],
+      "terms": "No code needed; pay once, runs on your computer; free version exports 15 seconds with a small mark; 30-day refund; sale ends end of 30 November 2026, US time",
+      "ends": "2026-11-30"
     },
     {
       "id": "deckloud",

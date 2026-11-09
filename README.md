@@ -66,6 +66,7 @@ Hi! I build native Mac and iOS apps and maintain this list. Follow me on [X](htt
 
 | App | Platforms | What it does | Deal |
 | --- | --- | --- | --- |
+| [Crisp](https://crispvideo.app/) | macOS | Offline video and photo upscaler and restorer for Mac (Apple silicon, macOS 14+) and Windows 10/11. | **50% off** · License ~~$29~~ $14.50 · No code needed; pay once, runs on your computer; free version exports 15 seconds with a small mark; 30-day refund; sale ends end of 30 November 2026, US time · until Nov 30 |
 | [Recorder.app](https://apps.apple.com/app/apple-store/id6740995613?pt=551454&mt=8) | macOS | Native Mac recorder: screen, windows, camera, mic and system audio at the same time, into separate, perfectly synced files. | **60% off** · Lifetime ~~$44.99~~ $17.99 · Automatically applied on the Mac App Store; one-time Lifetime unlock (monthly and yearly plans not discounted); 2026-11-20 to 2026-12-01 · until Dec 1 |
 
 ### Utilities and Menu Bar
