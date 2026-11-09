@@ -61,6 +61,7 @@ Hi! I build native Mac and iOS apps and maintain this list. Follow me on [X](htt
 | --- | --- | --- | --- |
 | [Device MCP](https://devicemcp.ai/) | macOS, iOS, iPadOS | Mirror and control iPhone and iPad from your Mac, with MCP tools for AI agents. | **30% off all plans** · code **BF2026** · BF2026; applies to early-bird prices; 2026-11-16 to 2026-12-03 · until Dec 3 |
 | [Proxyman](https://proxyman.com/) | macOS | Capture, inspect, and modify HTTP/HTTPS traffic with a native debugging proxy. | **30% off all plans** · code **BF2026** · BF2026; 2026-11-16 to 2026-12-03 · until Dec 3 |
+| [Runestone](https://apps.apple.com/us/app/runestone-text-editor/id1548193893) | iOS, iPadOS, visionOS | Plain text editor with syntax highlighting for iPhone, iPad, and Apple Vision Pro. | **50% off Premium ($4.99 USD)** · Automatically applied to the one-time in-app purchase. No code needed. November 24–30, 2026 · until Nov 30 |
 | [TCP Viewer](https://tcpviewer.proxyman.com/) | macOS | Capture and inspect TCP/UDP packets in a native macOS app. | **30% off all plans** · code **BF2026** · BF2026; 2026-11-16 to 2026-12-03 · until Dec 3 |
 
 ### Reading and Research
@@ -137,5 +138,11 @@ Hi! I build native Mac and iOS apps and maintain this list. Follow me on [X](htt
 | App | Platforms | What it does | Deal |
 | --- | --- | --- | --- |
 | [SubManager](https://submanager.app) | macOS, iOS, visionOS | Track subscriptions across iOS, macOS and visionOS and never miss a renewal. | **50% off** · Discount available from Nov 27 to Nov 30. During the discount period go to Settings -> SubManager+ to purchase · until Nov 30 |
+
+### Games
+
+| App | Platforms | What it does | Deal |
+| --- | --- | --- | --- |
+| [Wavy Road](https://apps.apple.com/dk/app/wavy-road-endless-driving/id6804942333) | iOS | Endless driving game for iPhone where you steer the road and dodge obstacles. | **50% off** · Automatically applied to in-app purchases. No code needed. November 24–30, 2026 · until Nov 30 |
 
 <!-- deals:end -->

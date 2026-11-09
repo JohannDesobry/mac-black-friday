@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T13:23:39.826Z",
+  "updatedAt": "2026-11-09T13:23:53.472Z",
   "categories": [
     {
       "id": "ai",
@@ -999,6 +999,22 @@
       "terms": "Automatically applied on the Mac App Store; one-time Lifetime unlock (monthly and yearly plans not discounted); 2026-11-20 to 2026-12-01"
     },
     {
+      "id": "runestone",
+      "name": "Runestone",
+      "url": "https://apps.apple.com/us/app/runestone-text-editor/id1548193893",
+      "platforms": [
+        "iOS",
+        "iPadOS",
+        "visionOS"
+      ],
+      "category": "developer",
+      "description": "Plain text editor with syntax highlighting for iPhone, iPad, and Apple Vision Pro.",
+      "discount": "50% off Premium ($4.99 USD)",
+      "ends": "2026-11-30",
+      "starts": "2026-11-24",
+      "terms": "Automatically applied to the one-time in-app purchase. No code needed. November 24–30, 2026."
+    },
+    {
       "id": "screensage-pro",
       "name": "ScreenSage Pro",
       "url": "https://screensage.pro/bf2026",
@@ -1212,6 +1228,20 @@
       "ends": "2026-12-03",
       "starts": "2026-11-16",
       "terms": "BF2026; 2026-11-16 to 2026-12-03"
+    },
+    {
+      "id": "wavy-road",
+      "name": "Wavy Road",
+      "url": "https://apps.apple.com/dk/app/wavy-road-endless-driving/id6804942333",
+      "platforms": [
+        "iOS"
+      ],
+      "category": "games",
+      "description": "Endless driving game for iPhone where you steer the road and dodge obstacles.",
+      "discount": "50% off",
+      "ends": "2026-11-30",
+      "starts": "2026-11-24",
+      "terms": "Automatically applied to in-app purchases. No code needed. November 24–30, 2026."
     },
     {
       "id": "what-happened",
