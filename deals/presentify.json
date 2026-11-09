@@ -1,0 +1,21 @@
+{
+  "name": "Presentify",
+  "url": "https://presentifyapp.com",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "productivity",
+  "description": "Annotate your screen, highlight clicks, spotlight, and zoom during presentations and calls on Mac.",
+  "discount": "30% off ($14 → $9.80)",
+  "code": "PRESENTIFY30",
+  "prices": [
+    {
+      "plan": "License",
+      "before": 14,
+      "after": 9.8
+    }
+  ],
+  "ends": "2026-12-02",
+  "starts": "2026-11-18",
+  "terms": "PRESENTIFY30; direct website purchase, one-time payment; 2026-11-18 to 2026-12-02"
+}
