@@ -1,0 +1,14 @@
+{
+  "name": "Kilobat Pro",
+  "url": "https://kilobat.app",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "utilities",
+  "description": "Native macOS network monitoring and diagnostics for app connections and hotspot data.",
+  "discount": "30% off",
+  "code": "BLACKFRIDAY30",
+  "ends": "2026-11-30",
+  "starts": "2026-11-20",
+  "terms": "BLACKFRIDAY30; one-time Pro license for two Macs, includes v1 updates; 2026-11-20 to 2026-11-30 (upcoming)"
+}
