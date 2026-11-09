@@ -1,0 +1,21 @@
+{
+  "name": "FileOctopus",
+  "url": "https://www.fileoctopus.com/black-friday.html",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "utilities",
+  "description": "Native Mac file manager that feels like Finder, with split panes, named workspaces, a Shelf, Compare Folders and fast search.",
+  "discount": "50% off PRO ($29.99 → $14.99)",
+  "code": "BLACKFRIDAY2026",
+  "prices": [
+    {
+      "plan": "Lifetime",
+      "before": 29.99,
+      "after": 14.99
+    }
+  ],
+  "ends": "2026-11-30",
+  "starts": "2026-11-27",
+  "terms": "BLACKFRIDAY2026; automatically applied by the Buy button on the sale page; one-time purchase, up to 2 Macs, lifetime updates; 2026-11-27 to 2026-11-30 (UTC)"
+}
