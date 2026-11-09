@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T13:24:58.468Z",
+  "updatedAt": "2026-11-09T13:25:13.999Z",
   "categories": [
     {
       "id": "ai",
@@ -231,6 +231,27 @@
       "maker": "Daniel Nguyen",
       "makerUrl": "https://x.com/daniel_nguyenx",
       "featured": true
+    },
+    {
+      "id": "chronoid",
+      "name": "Chronoid",
+      "url": "https://www.chronoid.app/pricing",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "productivity",
+      "description": "Track apps, sites, and documents, organize projects, and turn hours into invoices on Mac.",
+      "discount": "50% off",
+      "code": "BLACKFRIDAY26",
+      "prices": [
+        {
+          "plan": "Lifetime",
+          "before": 149,
+          "after": 74.5
+        }
+      ],
+      "ends": "2026-12-02",
+      "terms": "BLACKFRIDAY26; automatically applied from the pricing page or entered at checkout; Until 2026-12-02"
     },
     {
       "id": "chute",
@@ -1204,6 +1225,27 @@
       "ends": "2026-12-01",
       "starts": "2026-11-27",
       "terms": "BLACKFRIDAY26; 2026-11-27 to 2026-12-01"
+    },
+    {
+      "id": "smoothcapture",
+      "name": "SmoothCapture",
+      "url": "https://www.smoothcapture.app/pricing",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "audio-video",
+      "description": "Turn screen recordings into app demo videos with auto zoom, smooth cursors, and 3D device models.",
+      "discount": "50% off",
+      "code": "BLACKFRIDAY26",
+      "prices": [
+        {
+          "plan": "Lifetime",
+          "before": 149,
+          "after": 74.5
+        }
+      ],
+      "ends": "2026-12-02",
+      "terms": "BLACKFRIDAY26; automatically applied from the pricing page or entered at checkout; Until 2026-12-02"
     },
     {
       "id": "snowwall",
