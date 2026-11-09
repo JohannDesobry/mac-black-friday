@@ -1,0 +1,22 @@
+{
+  "name": "PAPLO: Photo Sticker Maker",
+  "url": "https://getpaplo.com/news/black-friday-2026",
+  "platforms": [
+    "iOS"
+  ],
+  "category": "design",
+  "discount": "PAPLO Plus $3.99, 43% off",
+  "description": "Turns photos of your pets, friends and food into chat stickers for iMessage, WhatsApp and Telegram. No ads, no account, no subscription.",
+  "prices": [
+    {
+      "plan": "PAPLO Plus (one-time purchase)",
+      "before": 6.99,
+      "after": 3.99
+    }
+  ],
+  "terms": "US price; local prices vary. In-app purchase, no code needed.",
+  "starts": "2026-11-27",
+  "ends": "2026-12-01",
+  "makerUrl": "https://getpaplo.com",
+  "icon": "https://getpaplo.com/icon-512.png"
+}
