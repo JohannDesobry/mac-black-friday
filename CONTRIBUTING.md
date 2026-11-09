@@ -4,7 +4,7 @@
 
 **Or fill in the short form** at [boltai.com/blackfriday/submit](https://boltai.com/blackfriday/submit): app name, link and deal are all it needs.
 
-**Or by hand:** fork this repo, copy `deals/_template.json.example` to `deals/your-app-name.json`, fill it in and open a pull request. One file per app, nothing else in the diff.
+**Or by hand:** fork this repo, copy `deals/_template.json.example` to `deals/your-app-name.json`, fill it in and open a pull request. One file per app, up to five apps in one pull request, nothing else in the diff.
 
 ## Fields
 

@@ -1,0 +1,20 @@
+{
+  "name": "ConnectWizard",
+  "url": "https://apps.apple.com/us/app/asc-analytics-connectwizard/id6747314580",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "developer",
+  "description": "Unlock hidden App Store Connect Analytics.",
+  "discount": "50% off",
+  "prices": [
+    {
+      "plan": "License",
+      "before": 100,
+      "after": 50
+    }
+  ],
+  "terms": "Automatically applied; no code needed; 2026-11-27 to 2026-12-1",
+  "starts": "2026-11-27",
+  "ends": "2026-12-01"
+}

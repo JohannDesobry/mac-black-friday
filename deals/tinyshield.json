@@ -1,0 +1,14 @@
+{
+  "name": "TinyShield",
+  "url": "https://tinyshield.proxyman.com/",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "security",
+  "description": "Monitor app connections and block unwanted apps or domains with a macOS firewall.",
+  "discount": "30% off all plans",
+  "code": "BF2026",
+  "ends": "2026-12-03",
+  "starts": "2026-11-16",
+  "terms": "BF2026; 2026-11-16 to 2026-12-03"
+}
