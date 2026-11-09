@@ -1,0 +1,20 @@
+{
+  "name": "BirdFrame",
+  "url": "https://getbirdframe.com/",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "design",
+  "description": "Batch-crop bird photos at full resolution on Mac, from Apple Photos or a folder.",
+  "discount": "33% off ($29.99 → $19.99)",
+  "prices": [
+    {
+      "plan": "License",
+      "before": 29.99,
+      "after": 19.99
+    }
+  ],
+  "ends": "2026-12-01",
+  "starts": "2026-11-20",
+  "terms": "No code needed; one-time Mac App Store unlock; 2026-11-20 to 2026-12-01"
+}
