@@ -52,10 +52,17 @@ Hi! I build native Mac and iOS apps and maintain this list. Follow me on [X](htt
 | --- | --- | --- | --- |
 | [KTool](https://ktool.io/pricing#lifetime) | macOS, iOS | Send articles, newsletters and RSS feeds to your Kindle, from your browser or your phone. | **Lifetime ~~$179~~ $149** · Everything in Platinum, pay once · until Dec 1 |
 
+### Audio and Video
+
+| App | Platforms | What it does | Deal |
+| --- | --- | --- | --- |
+| [Recorder.app](https://apps.apple.com/app/apple-store/id6740995613?pt=551454&mt=8) | macOS | Native Mac recorder: screen, windows, camera, mic and system audio at the same time, into separate, perfectly synced files. | **60% off** · Lifetime ~~$44.99~~ $17.99 · Automatically applied on the Mac App Store; one-time Lifetime unlock (monthly and yearly plans not discounted); 2026-11-20 to 2026-12-01 · until Dec 1 |
+
 ### Utilities and Menu Bar
 
 | App | Platforms | What it does | Deal |
 | --- | --- | --- | --- |
+| [AudioRecorder.app](https://apps.apple.com/app/apple-store/id6742782372?pt=551454&mt=8) | macOS | Record system audio and microphone on your Mac in one click, no drivers needed. | **60% off** · Lifetime ~~$24.99~~ $9.99 · Automatically applied on the Mac App Store; one-time Lifetime unlock (monthly and yearly plans not discounted); macOS 15.2+; 2026-11-20 to 2026-12-01 · until Dec 1 |
 | [Chute](https://appsbymo.app/chute/) | macOS | A drop tray for Mac: shake a file while you drag it, then one key zips, resizes, converts, renames, AirDrops or sends it to your other Mac. | **50% off** · code **BLACKFRIDAY** · with code BLACKFRIDAY at appsbymo.app (regular $14.99). Nov 9 - Dec 1, 2026 · until Dec 1 |
 | [Picmal](https://picmal.app) | macOS | Convert, compress, and edit images, video, audio, and PDFs locally on Mac. | **50% off ($29 → $14.50)** · code **BLACKFRIDAY** · License ~~$29~~ $14.50 · BLACKFRIDAY; one-time purchase; 2026-11-23 to 2026-11-30 (Pacific time) · until Nov 30 |
 | [What Happened](https://appsbymo.app/whathappened/) | macOS | Tells you in plain words why your Mac is slow, hot or full, and fixes it with your OK. | **50% off** · code **BLACKFRIDAY** · with code BLACKFRIDAY at appsbymo.app (regular $13.99). Nov 9 - Dec 1, 2026 · until Dec 1 |
