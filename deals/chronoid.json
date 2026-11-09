@@ -1,0 +1,20 @@
+{
+  "name": "Chronoid",
+  "url": "https://www.chronoid.app/pricing",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "productivity",
+  "description": "Track apps, sites, and documents, organize projects, and turn hours into invoices on Mac.",
+  "discount": "50% off",
+  "code": "BLACKFRIDAY26",
+  "prices": [
+    {
+      "plan": "Lifetime",
+      "before": 149,
+      "after": 74.5
+    }
+  ],
+  "ends": "2026-12-02",
+  "terms": "BLACKFRIDAY26; automatically applied from the pricing page or entered at checkout; Until 2026-12-02"
+}
