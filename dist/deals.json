@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T14:21:10.413Z",
+  "updatedAt": "2026-11-09T14:21:33.160Z",
   "categories": [
     {
       "id": "ai",
@@ -1049,19 +1049,22 @@
         "macOS"
       ],
       "category": "productivity",
-      "description": "Annotate your screen, highlight clicks, spotlight, and zoom during presentations and calls on Mac.",
-      "discount": "30% off ($14 → $9.80)",
+      "description": "Draw and annotate on your screen, highlight your cursor and clicks, spotlight, and zoom. For presentations, calls, demos, and teaching.",
+      "discount": "30% off",
       "code": "PRESENTIFY30",
       "prices": [
         {
-          "plan": "License",
+          "plan": "One-time purchase",
           "before": 14,
           "after": 9.8
         }
       ],
-      "ends": "2026-12-02",
+      "terms": "Code works on direct purchase from the website only (not the App Store or Setapp). One-time purchase, no subscription.",
       "starts": "2026-11-18",
-      "terms": "PRESENTIFY30; direct website purchase, one-time payment; 2026-11-18 to 2026-12-02"
+      "ends": "2026-12-02",
+      "maker": "Softal",
+      "makerUrl": "https://softal.io",
+      "icon": "https://raw.githubusercontent.com/rampatra/assets/main/Presentify/Icons/icon_512.png"
     },
     {
       "id": "pretty-progress",
