@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T13:24:06.619Z",
+  "updatedAt": "2026-11-09T13:24:19.802Z",
   "categories": [
     {
       "id": "ai",
@@ -1167,6 +1167,27 @@
       "code": "BLACKFRIDAY26",
       "ends": "2026-12-01",
       "terms": "BLACKFRIDAY26; yearly discount applies to the first year; Until 2026-12-01"
+    },
+    {
+      "id": "spacepal",
+      "name": "Spacepal",
+      "url": "https://getspacepal.com/black-friday/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "productivity",
+      "description": "Names and live previews for Mac desktops (Spaces), with window search and instant switching.",
+      "discount": "20% off ($9.99 → $7.99)",
+      "prices": [
+        {
+          "plan": "License",
+          "before": 9.99,
+          "after": 7.99
+        }
+      ],
+      "ends": "2026-12-01",
+      "starts": "2026-11-27",
+      "terms": "Automatically applied at checkout; one-time license for up to 3 Macs; 2026-11-27 to 2026-12-01 (Pacific time)"
     },
     {
       "id": "submanager",
