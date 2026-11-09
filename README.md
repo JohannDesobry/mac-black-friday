@@ -70,6 +70,12 @@ Hi! I build native Mac and iOS apps and maintain this list. Follow me on [X](htt
 | [Umami Manager](https://apps.apple.com/de/app/umami-analytics-manager/id6462423358) | iOS | Monitor & Analyze & Manage your Umami Analytics on the go. | **Lifetime 25% off** · Automatically applied; no code needed; 2026-11-27 to 2026-12-1 · until Dec 1 |
 | [WhaleDeck](https://apps.apple.com/us/app/docker-manager-gui-whaledeck/id1581548562) | macOS, iOS, iPadOS | Effortlessly manage and monitor your Docker servers on your iPhone, iPad, and Mac. | **Lifetime 40% off ($57 → $35)** · Lifetime ~~$57~~ $35 · Automatically applied; no code needed; 2026-11-27 to 2026-12-1 · until Dec 1 |
 
+### Writing and Notes
+
+| App | Platforms | What it does | Deal |
+| --- | --- | --- | --- |
+| [Everlog Journal](https://apps.apple.com/app/everlog-journal/id1519935634) | iOS, iPadOS, macOS | Private journal for iPhone, iPad and Mac: Markdown entries, photos, places, moods and workouts, synced through iCloud | **50% off Premium** · Lifetime ~~$59.99~~ $29.99 · Yearly (first year) ~~$29.99~~ $14.99 · No code needed: the offer appears in the app for anyone not on Premium yet. The yearly renews at $29.99. US prices; local prices vary · until Dec 1 |
+
 ### Reading and Research
 
 | App | Platforms | What it does | Deal |
@@ -149,6 +155,7 @@ Hi! I build native Mac and iOS apps and maintain this list. Follow me on [X](htt
 | App | Platforms | What it does | Deal |
 | --- | --- | --- | --- |
 | [SubManager](https://submanager.app) | macOS, iOS, visionOS | Track subscriptions across iOS, macOS and visionOS and never miss a renewal. | **50% off** · Discount available from Nov 27 to Nov 30. During the discount period go to Settings -> SubManager+ to purchase · until Nov 30 |
+| [Wealthfolio Connect](https://wealthfolio.app/connect/black-friday/) | macOS, iOS | Encrypted device sync and backups for Wealthfolio; Essentials and Duo add automatic imports from supported brokerages | **35% off first year (annual)** · code **BLACKFRIDAY35** · Nov 8–30, 2026. Annual Basic, Essentials and Duo; first year only; renewals at regular price. Ends Nov 30 at 11:59 p.m. Eastern · until Nov 30 |
 
 ### Games
 
