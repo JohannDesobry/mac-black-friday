@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T13:25:13.999Z",
+  "updatedAt": "2026-11-09T13:25:26.121Z",
   "categories": [
     {
       "id": "ai",
@@ -698,6 +698,21 @@
       "ends": "2026-12-03",
       "starts": "2026-11-06",
       "terms": "BF30; new licences only, one-time purchase; 2026-11-06 to 2026-12-03"
+    },
+    {
+      "id": "juxtacode",
+      "name": "JuxtaCode",
+      "url": "https://juxtacode.app/black-friday/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "developer",
+      "description": "Compare Git branches and resolve merge conflicts with ease on macOS.",
+      "discount": "40% off",
+      "code": "BLACKFRIDAY26",
+      "ends": "2026-12-01",
+      "starts": "2026-11-20",
+      "terms": "BLACKFRIDAY26; direct purchase from juxtacode.app only, not the Mac App Store; 2026-11-20 to 2026-12-01"
     },
     {
       "id": "keyscreen",
