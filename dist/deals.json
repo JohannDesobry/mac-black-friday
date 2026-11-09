@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T13:24:45.785Z",
+  "updatedAt": "2026-11-09T13:24:58.468Z",
   "categories": [
     {
       "id": "ai",
@@ -388,6 +388,21 @@
       "ends": "2026-12-03",
       "starts": "2026-11-16",
       "terms": "BF2026; applies to early-bird prices; 2026-11-16 to 2026-12-03"
+    },
+    {
+      "id": "dictionaries",
+      "name": "Dictionaries",
+      "url": "https://dictionaries.io/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "Add dictionaries for 80+ languages to Mac’s Look Up, with pronunciation; also for Kindle.",
+      "discount": "50% off",
+      "code": "BF26",
+      "ends": "2026-12-03",
+      "starts": "2026-11-04",
+      "terms": "BF26; 2026-11-04 to 2026-12-03"
     },
     {
       "id": "dockflow",
