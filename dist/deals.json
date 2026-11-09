@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T13:22:21.146Z",
+  "updatedAt": "2026-11-09T13:22:32.898Z",
   "categories": [
     {
       "id": "ai",
@@ -371,6 +371,28 @@
       "terms": "BLACK2026FRIDAY50; automatically applied on the website; 2026-11-12 to 2026-12-01"
     },
     {
+      "id": "facescreen",
+      "name": "FaceScreen",
+      "url": "https://facescreen.app",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "audio-video",
+      "description": "Floating camera and text overlays with a ring light for recordings and video calls.",
+      "discount": "30% off ($5.99 → $4.19)",
+      "code": "FACESCREEN30",
+      "prices": [
+        {
+          "plan": "License",
+          "before": 5.99,
+          "after": 4.19
+        }
+      ],
+      "ends": "2026-12-02",
+      "starts": "2026-11-18",
+      "terms": "FACESCREEN30; direct website purchase, one-time payment; 2026-11-18 to 2026-12-02"
+    },
+    {
       "id": "fileoctopus",
       "name": "FileOctopus",
       "url": "https://www.fileoctopus.com/black-friday.html",
@@ -518,6 +540,28 @@
       "ends": "2026-12-03",
       "starts": "2026-11-06",
       "terms": "BF30; new licences only, one-time purchase; 2026-11-06 to 2026-12-03"
+    },
+    {
+      "id": "keyscreen",
+      "name": "KeyScreen",
+      "url": "https://keyscreen.app",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "Show keystrokes on screen for tutorials, streams, and demos on Mac.",
+      "discount": "30% off ($5.99 → $4.19)",
+      "code": "KEYSCREEN30",
+      "prices": [
+        {
+          "plan": "License",
+          "before": 5.99,
+          "after": 4.19
+        }
+      ],
+      "ends": "2026-12-02",
+      "starts": "2026-11-18",
+      "terms": "KEYSCREEN30; direct website purchase, one-time payment; 2026-11-18 to 2026-12-02"
     },
     {
       "id": "ktool",
@@ -794,6 +838,28 @@
       "ends": "2026-11-30",
       "starts": "2026-11-23",
       "terms": "BLACKFRIDAY; one-time purchase; 2026-11-23 to 2026-11-30 (Pacific time)"
+    },
+    {
+      "id": "presentify",
+      "name": "Presentify",
+      "url": "https://presentifyapp.com",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "productivity",
+      "description": "Annotate your screen, highlight clicks, spotlight, and zoom during presentations and calls on Mac.",
+      "discount": "30% off ($14 → $9.80)",
+      "code": "PRESENTIFY30",
+      "prices": [
+        {
+          "plan": "License",
+          "before": 14,
+          "after": 9.8
+        }
+      ],
+      "ends": "2026-12-02",
+      "starts": "2026-11-18",
+      "terms": "PRESENTIFY30; direct website purchase, one-time payment; 2026-11-18 to 2026-12-02"
     },
     {
       "id": "proxyman",
