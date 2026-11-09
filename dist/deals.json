@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T13:22:59.334Z",
+  "updatedAt": "2026-11-09T13:23:14.849Z",
   "categories": [
     {
       "id": "ai",
@@ -203,6 +203,28 @@
       "ends": "2026-12-01",
       "starts": "2026-11-09",
       "terms": "with code BLACKFRIDAY at appsbymo.app (regular $14.99). Nov 9 - Dec 1, 2026"
+    },
+    {
+      "id": "cleanclip",
+      "name": "CleanClip",
+      "url": "https://pricing.cleanclip.cc/src",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "Minimalist clipboard manager for Mac with searchable history, smart lists, quick paste and Paste Stack.",
+      "discount": "30% off",
+      "code": "BF2026",
+      "prices": [
+        {
+          "plan": "License",
+          "before": 19.99,
+          "after": 13.99
+        }
+      ],
+      "ends": "2026-12-15",
+      "starts": "2026-11-04",
+      "terms": "BF2026; one-time purchase; 2026-11-04 to 2026-12-15"
     },
     {
       "id": "cooldock",
@@ -939,6 +961,29 @@
       "ends": "2026-12-01",
       "starts": "2026-11-20",
       "terms": "Automatically applied on the Mac App Store; one-time Lifetime unlock (monthly and yearly plans not discounted); 2026-11-20 to 2026-12-01"
+    },
+    {
+      "id": "screensage-pro",
+      "name": "ScreenSage Pro",
+      "url": "https://screensage.pro/bf2026",
+      "platforms": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "category": "audio-video",
+      "description": "Screen recorder and video editor for Mac with cursor-following auto zoom, camera layouts, and iPhone/iPad capture.",
+      "discount": "53% off",
+      "code": "BFS2026L",
+      "prices": [
+        {
+          "plan": "Lifetime",
+          "before": 449,
+          "after": 209.9
+        }
+      ],
+      "ends": "2026-12-15",
+      "terms": "BFS2026L for Lifetime; BFS2026P for Pro; one-time purchase; until 2026-12-15"
     },
     {
       "id": "scry",
