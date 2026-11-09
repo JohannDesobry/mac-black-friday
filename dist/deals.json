@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T10:15:56.534Z",
+  "updatedAt": "2026-11-09T14:21:33.160Z",
   "categories": [
     {
       "id": "ai",
@@ -60,6 +60,150 @@
   ],
   "deals": [
     {
+      "id": "activedock-2",
+      "name": "ActiveDock 2",
+      "url": "https://noteifyapp.com/activedock/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "Dock replacement for macOS.",
+      "discount": "30% off",
+      "code": "MACPLUSBLACKFRIDAY26",
+      "prices": [
+        {
+          "plan": "Lifetime",
+          "before": 19.99,
+          "after": 13.99
+        }
+      ],
+      "ends": "2026-11-30",
+      "starts": "2026-11-01",
+      "terms": "MACPLUSBLACKFRIDAY26; 2026-11-01 to 2026-11-30"
+    },
+    {
+      "id": "aevo",
+      "name": "Aevo",
+      "url": "https://aevo.so/en",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "productivity",
+      "description": "Task board with tiles and calendar sync for macOS and web.",
+      "discount": "30% off",
+      "ends": "2026-11-30",
+      "starts": "2026-11-27",
+      "terms": "Direct purchase from the website; yearly discount applies to the first year; 2026-11-27 to 2026-11-30"
+    },
+    {
+      "id": "almighty",
+      "name": "Almighty",
+      "url": "https://indiegoodies.com/almighty",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "Over 100 Mac tweaks and utilities in one native app, from hidden settings to notch actions.",
+      "discount": "50% off",
+      "code": "INDIEGOODIESBF26",
+      "prices": [
+        {
+          "plan": "Lifetime",
+          "before": 14.99,
+          "after": 7.49
+        }
+      ],
+      "terms": "Lifetime license.",
+      "starts": "2026-11-20",
+      "ends": "2026-11-30"
+    },
+    {
+      "id": "audiorecorder-app",
+      "name": "AudioRecorder.app",
+      "url": "https://apps.apple.com/app/apple-store/id6742782372?pt=551454&mt=8",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "Record system audio and microphone on your Mac in one click, no drivers needed.",
+      "discount": "60% off",
+      "prices": [
+        {
+          "plan": "Lifetime",
+          "before": 24.99,
+          "after": 9.99
+        }
+      ],
+      "ends": "2026-12-01",
+      "starts": "2026-11-20",
+      "terms": "Automatically applied on the Mac App Store; one-time Lifetime unlock (monthly and yearly plans not discounted); macOS 15.2+; 2026-11-20 to 2026-12-01"
+    },
+    {
+      "id": "aurio",
+      "name": "Aurio",
+      "url": "https://aurio.dev/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "Remove background noise from your microphone in real time on Mac, on-device with no account.",
+      "discount": "25% off ($40 → $30)",
+      "code": "BLACKFRIDAY26",
+      "prices": [
+        {
+          "plan": "License",
+          "before": 40,
+          "after": 30
+        }
+      ],
+      "ends": "2026-12-01",
+      "starts": "2026-11-24",
+      "terms": "BLACKFRIDAY26; keep the app with one year of updates; 2026-11-24 to 2026-12-01"
+    },
+    {
+      "id": "bindrik",
+      "name": "Bindrik",
+      "url": "https://bindrik.com/en",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "design",
+      "description": "Create Amazon KDP book interiors and covers with calculated bleed, gutter, and spine width, offline on Mac.",
+      "discount": "43% off ($69 → $39)",
+      "code": "BLACKFRIDAY2026",
+      "prices": [
+        {
+          "plan": "License",
+          "before": 69,
+          "after": 39
+        }
+      ],
+      "ends": "2026-11-30",
+      "starts": "2026-11-23",
+      "terms": "BLACKFRIDAY2026; one-time purchase; 2026-11-23 to 2026-11-30"
+    },
+    {
+      "id": "birdframe",
+      "name": "BirdFrame",
+      "url": "https://getbirdframe.com/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "design",
+      "description": "Batch-crop bird photos at full resolution on Mac, from Apple Photos or a folder.",
+      "discount": "33% off ($29.99 → $19.99)",
+      "prices": [
+        {
+          "plan": "License",
+          "before": 29.99,
+          "after": 19.99
+        }
+      ],
+      "ends": "2026-12-01",
+      "starts": "2026-11-20",
+      "terms": "No code needed; one-time Mac App Store unlock; 2026-11-20 to 2026-12-01"
+    },
+    {
       "id": "boltai",
       "name": "BoltAI",
       "url": "https://boltai.com/pricing",
@@ -89,6 +233,539 @@
       "featured": true
     },
     {
+      "id": "chronoid",
+      "name": "Chronoid",
+      "url": "https://www.chronoid.app/pricing",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "productivity",
+      "description": "Automatic time tracking for Mac. Logs apps, sites and docs, sorts them into projects and turns hours into invoices. Data stays on your Mac.",
+      "discount": "50% off",
+      "code": "BLACKFRIDAY26",
+      "prices": [
+        {
+          "plan": "Personal",
+          "before": 99,
+          "after": 49.5
+        },
+        {
+          "plan": "Lifetime",
+          "before": 149,
+          "after": 74.5
+        },
+        {
+          "plan": "Chronoid + SmoothCapture bundle",
+          "before": 199,
+          "after": 99.5
+        }
+      ],
+      "terms": "Code applied automatically from the pricing page. One-time purchase.",
+      "starts": "2026-11-03",
+      "ends": "2026-12-02",
+      "maker": "Vu Nguyen",
+      "makerUrl": "https://x.com/vunguyendev",
+      "icon": "https://www.chronoid.app/app-icon.png"
+    },
+    {
+      "id": "chute",
+      "name": "Chute",
+      "url": "https://appsbymo.app/chute/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "A drop tray for Mac: shake a file while you drag it, then one key zips, resizes, converts, renames, AirDrops or sends it to your other Mac.",
+      "discount": "50% off",
+      "code": "BLACKFRIDAY",
+      "ends": "2026-12-01",
+      "starts": "2026-11-09",
+      "terms": "with code BLACKFRIDAY at appsbymo.app (regular $14.99). Nov 9 - Dec 1, 2026"
+    },
+    {
+      "id": "cleanclip",
+      "name": "CleanClip",
+      "url": "https://pricing.cleanclip.cc/src",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "Minimalist clipboard manager for Mac with searchable history, smart lists, quick paste and Paste Stack.",
+      "discount": "30% off",
+      "code": "BF2026",
+      "prices": [
+        {
+          "plan": "License",
+          "before": 19.99,
+          "after": 13.99
+        }
+      ],
+      "ends": "2026-12-15",
+      "starts": "2026-11-04",
+      "terms": "BF2026; one-time purchase; 2026-11-04 to 2026-12-15"
+    },
+    {
+      "id": "connectwizard",
+      "name": "ConnectWizard",
+      "url": "https://apps.apple.com/us/app/asc-analytics-connectwizard/id6747314580",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "developer",
+      "description": "Unlock hidden App Store Connect Analytics.",
+      "discount": "50% off",
+      "prices": [
+        {
+          "plan": "License",
+          "before": 100,
+          "after": 50
+        }
+      ],
+      "terms": "Automatically applied; no code needed; 2026-11-27 to 2026-12-1",
+      "starts": "2026-11-27",
+      "ends": "2026-12-01"
+    },
+    {
+      "id": "cooldock",
+      "name": "CoolDock",
+      "url": "https://cooldock.app",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "Second Dock with live widgets for music, calendars, weather, tasks, and system stats.",
+      "discount": "50% off all Lifetime licenses",
+      "code": "BLACK2026FRIDAY50",
+      "ends": "2026-12-01",
+      "starts": "2026-11-12",
+      "terms": "BLACK2026FRIDAY50; automatically applied on the website; 2026-11-12 to 2026-12-01"
+    },
+    {
+      "id": "cozy",
+      "name": "Cozy",
+      "url": "https://cozyjournal.app",
+      "platforms": [
+        "macOS",
+        "iOS"
+      ],
+      "category": "productivity",
+      "description": "Private journal for Mac, Windows, and iPhone with entries stored as local files.",
+      "discount": "50% off ($49 → $24.50)",
+      "code": "BLACKFRIDAY",
+      "prices": [
+        {
+          "plan": "License",
+          "before": 49,
+          "after": 24.5
+        }
+      ],
+      "ends": "2026-11-30",
+      "starts": "2026-11-23",
+      "terms": "BLACKFRIDAY; one-time purchase; 2026-11-23 to 2026-11-30 (Pacific time)"
+    },
+    {
+      "id": "crisp",
+      "name": "Crisp",
+      "url": "https://crispvideo.app/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "audio-video",
+      "description": "Offline video and photo upscaler and restorer for Mac (Apple silicon, macOS 14+) and Windows 10/11.",
+      "discount": "50% off",
+      "prices": [
+        {
+          "plan": "License",
+          "before": 29,
+          "after": 14.5
+        }
+      ],
+      "terms": "No code needed; pay once, runs on your computer; free version exports 15 seconds with a small mark; 30-day refund; sale ends end of 30 November 2026, US time",
+      "ends": "2026-11-30"
+    },
+    {
+      "id": "deckloud",
+      "name": "Deckloud",
+      "url": "https://deckloud.com/black-friday/",
+      "platforms": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "category": "productivity",
+      "description": "Native Nextcloud Deck app for iPhone, iPad, Android, Mac, Windows, and Linux, with offline sync to your own server.",
+      "discount": "40% off",
+      "code": "BF2026",
+      "prices": [
+        {
+          "plan": "Lifetime",
+          "before": 39,
+          "after": 22.99
+        }
+      ],
+      "ends": "2026-12-02",
+      "starts": "2026-11-27",
+      "terms": "Automatically applied on the App Store and Google Play; one-time purchase; desktop-only Pro $19 → $11.40 with BF2026; subscriptions excluded; 2026-11-27 to…"
+    },
+    {
+      "id": "device-mcp",
+      "name": "Device MCP",
+      "url": "https://devicemcp.ai/",
+      "platforms": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "category": "developer",
+      "description": "Mirror and control iPhone and iPad from your Mac, with MCP tools for AI agents.",
+      "discount": "30% off all plans",
+      "code": "BF2026",
+      "ends": "2026-12-03",
+      "starts": "2026-11-16",
+      "terms": "BF2026; applies to early-bird prices; 2026-11-16 to 2026-12-03"
+    },
+    {
+      "id": "dictionaries",
+      "name": "Dictionaries",
+      "url": "https://dictionaries.io/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "Add dictionaries for 80+ languages to Mac’s Look Up, with pronunciation; also for Kindle.",
+      "discount": "50% off",
+      "code": "BF26",
+      "ends": "2026-12-03",
+      "starts": "2026-11-04",
+      "terms": "BF26; 2026-11-04 to 2026-12-03"
+    },
+    {
+      "id": "dockflow",
+      "name": "DockFlow",
+      "url": "https://dockflowapp.io",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "Save and switch between macOS Dock presets.",
+      "discount": "50% off all Lifetime licenses",
+      "code": "BLACK2026FRIDAY50",
+      "ends": "2026-12-01",
+      "starts": "2026-11-12",
+      "terms": "BLACK2026FRIDAY50; automatically applied on the website; 2026-11-12 to 2026-12-01"
+    },
+    {
+      "id": "dockmagic",
+      "name": "DockMagic",
+      "url": "https://dockmagic.app/#dm-pricing",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "Widget Dock for macOS with calendars, clocks, system stats, and everyday controls.",
+      "discount": "50% off",
+      "prices": [
+        {
+          "plan": "Lifetime",
+          "before": 25,
+          "after": 12.99
+        }
+      ],
+      "ends": "2026-11-30",
+      "starts": "2026-11-03",
+      "terms": "Automatically applied; one-time purchase with lifetime updates; prices in USD; 2026-11-03 to 2026-11-30"
+    },
+    {
+      "id": "dockview-2",
+      "name": "DockView 2",
+      "url": "https://noteifyapp.com/dockview/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "Live window previews for the macOS Dock.",
+      "discount": "30% off",
+      "code": "MACPLUSBLACKFRIDAY26",
+      "prices": [
+        {
+          "plan": "Lifetime",
+          "before": 14.99,
+          "after": 10.49
+        }
+      ],
+      "ends": "2026-11-30",
+      "starts": "2026-11-01",
+      "terms": "MACPLUSBLACKFRIDAY26; 2026-11-01 to 2026-11-30"
+    },
+    {
+      "id": "drivedex",
+      "name": "DriveDex",
+      "url": "https://apps.apple.com/us/app/fuel-consumption-drivedex/id6503341002",
+      "platforms": [
+        "iOS",
+        "iPadOS"
+      ],
+      "category": "utilities",
+      "description": "Track mileage and expenses for all your vehicles. Available for iOS, iPadOS, and visionOS.",
+      "discount": "Lifetime 50% off",
+      "terms": "Automatically applied; no code needed; 2026-11-27 to 2026-12-1",
+      "starts": "2026-11-27",
+      "ends": "2026-12-01"
+    },
+    {
+      "id": "extrabar",
+      "name": "ExtraBar",
+      "url": "https://extrabar.app",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "Customize the Mac menu bar with shortcuts, quick actions, and deep links.",
+      "discount": "50% off all Lifetime licenses",
+      "code": "BLACK2026FRIDAY50",
+      "ends": "2026-12-01",
+      "starts": "2026-11-12",
+      "terms": "BLACK2026FRIDAY50; automatically applied on the website; 2026-11-12 to 2026-12-01"
+    },
+    {
+      "id": "extradock",
+      "name": "ExtraDock",
+      "url": "https://extradock.app",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "Create floating docks anywhere on any Mac screen.",
+      "discount": "50% off all Lifetime licenses",
+      "code": "BLACK2026FRIDAY50",
+      "ends": "2026-12-01",
+      "starts": "2026-11-12",
+      "terms": "BLACK2026FRIDAY50; automatically applied on the website; 2026-11-12 to 2026-12-01"
+    },
+    {
+      "id": "facescreen",
+      "name": "FaceScreen",
+      "url": "https://facescreen.app",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "audio-video",
+      "description": "Floating camera and text overlays with a ring light for recordings and video calls.",
+      "discount": "30% off ($5.99 → $4.19)",
+      "code": "FACESCREEN30",
+      "prices": [
+        {
+          "plan": "License",
+          "before": 5.99,
+          "after": 4.19
+        }
+      ],
+      "ends": "2026-12-02",
+      "starts": "2026-11-18",
+      "terms": "FACESCREEN30; direct website purchase, one-time payment; 2026-11-18 to 2026-12-02"
+    },
+    {
+      "id": "fileoctopus",
+      "name": "FileOctopus",
+      "url": "https://www.fileoctopus.com/black-friday.html",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "Native Mac file manager that feels like Finder, with split panes, named workspaces, a Shelf, Compare Folders and fast search.",
+      "discount": "50% off PRO ($29.99 → $14.99)",
+      "code": "BLACKFRIDAY2026",
+      "prices": [
+        {
+          "plan": "Lifetime",
+          "before": 29.99,
+          "after": 14.99
+        }
+      ],
+      "ends": "2026-11-30",
+      "starts": "2026-11-27",
+      "terms": "BLACKFRIDAY2026; automatically applied by the Buy button on the sale page; one-time purchase, up to 2 Macs, lifetime updates; 2026-11-27 to 2026-11-30 (UTC)"
+    },
+    {
+      "id": "fileside",
+      "name": "Fileside",
+      "url": "https://www.fileside.app/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "A slick file manager with unlimited panes. Create workspaces for your projects. Build layouts of your folders.",
+      "discount": "50% off",
+      "prices": [
+        {
+          "plan": "License",
+          "before": 33,
+          "after": 16.5
+        }
+      ],
+      "ends": "2026-11-30",
+      "terms": "23-30 Nov. Code: BLKFRD26"
+    },
+    {
+      "id": "habit-pixel",
+      "name": "Habit Pixel",
+      "url": "https://habitpixel.com/get",
+      "platforms": [
+        "iOS"
+      ],
+      "category": "health",
+      "description": "Offline habit tracker with pixel check-ins, streak goals, reminders, and widgets for iPhone and Android.",
+      "discount": "33% off",
+      "prices": [
+        {
+          "plan": "Lifetime",
+          "before": 29.99,
+          "after": 19.99
+        }
+      ],
+      "ends": "2026-12-02",
+      "starts": "2026-11-19",
+      "terms": "Automatically applied in the app; local prices vary; 2026-11-19 to 2026-12-02"
+    },
+    {
+      "id": "iknowmydisplay",
+      "name": "iKnowMyDisplay",
+      "url": "https://iknowmydisplay.com",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "Every display control macOS hides, in the menu bar: external monitor brightness, resolution, refresh rate, HDR, colour and a TV remote, plus Check this…",
+      "discount": "25% off",
+      "prices": [
+        {
+          "plan": "iKnow Suite, both apps",
+          "before": 7.99,
+          "after": 5.99
+        }
+      ],
+      "ends": "2026-12-01",
+      "starts": "2026-11-27",
+      "terms": "Suite at [iknowmydisplay.com/suite](https://iknowmydisplay.com/suite), automatically applied, no code needed; one-time purchase; Apple silicon, macOS 15 or…"
+    },
+    {
+      "id": "iknowmymac",
+      "name": "iKnowMyMac",
+      "url": "https://iknowmymac.com",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "Menu bar app that remembers what your Mac did while you weren't looking: what woke it, overnight battery drain by app, every USB device and new login items.…",
+      "discount": "25% off",
+      "prices": [
+        {
+          "plan": "iKnow Suite, both apps",
+          "before": 7.99,
+          "after": 5.99
+        }
+      ],
+      "ends": "2026-12-01",
+      "starts": "2026-11-27",
+      "terms": "Suite at [iknowmydisplay.com/suite](https://iknowmydisplay.com/suite), automatically applied, no code needed; one-time purchase; Apple silicon, macOS 15 or…"
+    },
+    {
+      "id": "infinidesk",
+      "name": "InfiniDesk",
+      "url": "https://infinidesk.app/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "productivity",
+      "description": "Create multiple desktop 'surfaces' on your Mac, each with its own layout of file and folder icons, widget visibility, and wallpaper.",
+      "discount": "30% off ($12.99 → $8.99)",
+      "code": "INFINIBLACK",
+      "prices": [
+        {
+          "plan": "License",
+          "before": 12.99,
+          "after": 8.99
+        }
+      ],
+      "ends": "2026-12-04",
+      "starts": "2026-11-25",
+      "terms": "With code INFINIBLACK; 2026-11-25 to 2026-12-04"
+    },
+    {
+      "id": "iruka",
+      "name": "Iruka",
+      "url": "https://iruka.sh/black-friday",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "Native file manager for Mac with dual panes, previews, and a terminal that follows your folder.",
+      "discount": "30% off",
+      "code": "BF30",
+      "prices": [
+        {
+          "plan": "License",
+          "before": 19.99,
+          "after": 13.99
+        }
+      ],
+      "ends": "2026-12-03",
+      "starts": "2026-11-06",
+      "terms": "BF30; new licences only, one-time purchase; 2026-11-06 to 2026-12-03"
+    },
+    {
+      "id": "juxtacode",
+      "name": "JuxtaCode",
+      "url": "https://juxtacode.app/black-friday/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "developer",
+      "description": "Compare Git branches and resolve merge conflicts with ease on macOS.",
+      "discount": "40% off",
+      "code": "BLACKFRIDAY26",
+      "ends": "2026-12-01",
+      "starts": "2026-11-20",
+      "terms": "BLACKFRIDAY26; direct purchase from juxtacode.app only, not the Mac App Store; 2026-11-20 to 2026-12-01"
+    },
+    {
+      "id": "keyscreen",
+      "name": "KeyScreen",
+      "url": "https://keyscreen.app",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "Show keystrokes on screen for tutorials, streams, and demos on Mac.",
+      "discount": "30% off ($5.99 → $4.19)",
+      "code": "KEYSCREEN30",
+      "prices": [
+        {
+          "plan": "License",
+          "before": 5.99,
+          "after": 4.19
+        }
+      ],
+      "ends": "2026-12-02",
+      "starts": "2026-11-18",
+      "terms": "KEYSCREEN30; direct website purchase, one-time payment; 2026-11-18 to 2026-12-02"
+    },
+    {
+      "id": "kilobat-pro",
+      "name": "Kilobat Pro",
+      "url": "https://kilobat.app",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "Native macOS network monitoring and diagnostics for app connections and hotspot data.",
+      "discount": "30% off",
+      "code": "BLACKFRIDAY30",
+      "ends": "2026-11-30",
+      "starts": "2026-11-20",
+      "terms": "BLACKFRIDAY30; one-time Pro license for two Macs, includes v1 updates; 2026-11-20 to 2026-11-30 (upcoming)"
+    },
+    {
       "id": "ktool",
       "name": "KTool",
       "url": "https://ktool.io/pricing#lifetime",
@@ -113,13 +790,190 @@
       "featured": true
     },
     {
+      "id": "mac-4-breakfast",
+      "name": "Mac 4 Breakfast",
+      "url": "https://www.mac4breakfast.app",
+      "platforms": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "category": "utilities",
+      "description": "Menu bar battery app for Mac: battery health, cycle count, live watts and smart alerts, plus iPhone, iPad and AirPods batteries.",
+      "discount": "50% off ($9.99 → $4.99)",
+      "code": "BLACKFRIDAY26",
+      "prices": [
+        {
+          "plan": "License",
+          "before": 9.99,
+          "after": 4.99
+        }
+      ],
+      "ends": "2026-12-01",
+      "starts": "2026-11-23",
+      "terms": "BLACKFRIDAY26; one-time purchase, license covers 3 Macs; 2026-11-23 to 2026-12-01 (UTC)"
+    },
+    {
+      "id": "margin",
+      "name": "Margin",
+      "url": "https://appsbymo.app/margin/",
+      "platforms": [
+        "macOS",
+        "iOS"
+      ],
+      "category": "productivity",
+      "description": "Menu-bar day planner: type a plain sentence and it becomes an Apple Reminder or Calendar event on a live day timeline.",
+      "discount": "50% off",
+      "code": "BLACKFRIDAY",
+      "prices": [
+        {
+          "plan": "License",
+          "before": 9.99,
+          "after": 4.99
+        }
+      ],
+      "ends": "2026-12-01",
+      "starts": "2026-11-09",
+      "terms": "with code BLACKFRIDAY at appsbymo.app (regular $9.99); Mac App Store $9.99 $4.99, no code; App Store (iPhone) $5.99 $2.99, no code. Nov 9 - Dec 1, 2026"
+    },
+    {
+      "id": "neotiler",
+      "name": "NeoTiler",
+      "url": "https://getneotiler.com/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "Native macOS window manager with shortcuts, snapping, workspaces, and Dock previews.",
+      "discount": "30% off",
+      "code": "BF30",
+      "prices": [
+        {
+          "plan": "Lifetime",
+          "before": 9.99,
+          "after": 6.99
+        }
+      ],
+      "ends": "2026-12-01",
+      "terms": "BF30; automatically applied at checkout; Until 2026-12-01"
+    },
+    {
+      "id": "noteline",
+      "name": "Noteline",
+      "url": "https://noteline.io/pricing",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "productivity",
+      "description": "Markdown editor for Mac, Windows, and Linux with local files and offline Word/PDF export.",
+      "discount": "50% off ($9.99 → $4.99)",
+      "prices": [
+        {
+          "plan": "License",
+          "before": 9.99,
+          "after": 4.99
+        }
+      ],
+      "ends": "2026-11-30",
+      "starts": "2026-11-25",
+      "terms": "Automatically applied at checkout; one-time desktop license; 2026-11-25 to 2026-11-30"
+    },
+    {
+      "id": "oil-studio",
+      "name": "Oil Studio",
+      "url": "https://studio.oiloil.org/en/#price",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "audio-video",
+      "description": "Native macOS screen recorder and transcript video editor with auto zoom on clicks, smooth cursor, on-device Whisper captions, and AI agent CLI.",
+      "discount": "20% off ($49 → $39)",
+      "prices": [
+        {
+          "plan": "License",
+          "before": 49,
+          "after": 39
+        }
+      ],
+      "ends": "2026-12-01",
+      "starts": "2026-11-07",
+      "terms": "Automatically applied; one-time purchase for 2 Macs, free trial; 2026-11-07 to 2026-12-01"
+    },
+    {
+      "id": "overcal",
+      "name": "Overcal",
+      "url": "https://indiegoodies.com/overcal",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "productivity",
+      "description": "Your calendar in the Mac menu bar: month view, agenda, world clocks, and a countdown with one-click join for your next meeting.",
+      "discount": "50% off",
+      "code": "INDIEGOODIESBF26",
+      "prices": [
+        {
+          "plan": "Lifetime",
+          "before": 7.99,
+          "after": 3.99
+        }
+      ],
+      "terms": "Lifetime license.",
+      "starts": "2026-11-20",
+      "ends": "2026-11-30"
+    },
+    {
+      "id": "paplo",
+      "name": "PAPLO",
+      "url": "https://getpaplo.com/news/black-friday-2026",
+      "platforms": [
+        "iOS"
+      ],
+      "category": "design",
+      "description": "Turn photos of your pets, friends and food into chat stickers on iPhone.",
+      "discount": "43% off ($6.99 → $3.99)",
+      "prices": [
+        {
+          "plan": "License",
+          "before": 6.99,
+          "after": 3.99
+        }
+      ],
+      "ends": "2026-11-30",
+      "starts": "2026-11-27",
+      "terms": "No code needed; one-time in-app purchase (PAPLO Plus); 2026-11-27 to 2026-11-30"
+    },
+    {
+      "id": "pastepal",
+      "name": "PastePal",
+      "url": "https://indiegoodies.com/pastepal",
+      "platforms": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "category": "productivity",
+      "description": "Clipboard manager for Mac, iPhone and iPad that keeps everything you copy searchable, organized and synced through iCloud.",
+      "discount": "50% off",
+      "code": "INDIEGOODIESBF26",
+      "prices": [
+        {
+          "plan": "Lifetime (standalone Mac)",
+          "before": 14.99,
+          "after": 7.49
+        }
+      ],
+      "terms": "Standalone Mac version, lifetime license.",
+      "starts": "2026-11-20",
+      "ends": "2026-11-30"
+    },
+    {
       "id": "pdf-pals",
       "name": "PDF Pals",
       "url": "https://pdfpals.com/buy",
       "platforms": [
         "macOS"
       ],
-      "category": "reading",
+      "category": "productivity",
       "description": "Chat with your documents on Mac with built-in local AI models. Word, Excel, PowerPoint, EPUB, Markdown and PDF.",
       "discount": "Lifetime $149",
       "prices": [
@@ -143,6 +997,543 @@
       "maker": "Daniel Nguyen",
       "makerUrl": "https://x.com/daniel_nguyenx",
       "featured": true
+    },
+    {
+      "id": "peakhour",
+      "name": "PeakHour",
+      "url": "https://peakhour.app",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "Real-time network, Wi-Fi and bandwidth monitor for the Mac menu bar.",
+      "discount": "30% off",
+      "prices": [
+        {
+          "plan": "Lifetime",
+          "before": 49.99,
+          "after": 34.99
+        }
+      ],
+      "ends": "2026-12-01",
+      "starts": "2026-11-27",
+      "terms": "Automatically applied; lifetime purchase on the Mac App Store, $49.99 → $34.99; 2026-11-27 to 2026-12-01"
+    },
+    {
+      "id": "picmal",
+      "name": "Picmal",
+      "url": "https://picmal.app",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "Convert, compress, and edit images, video, audio, and PDFs locally on Mac.",
+      "discount": "50% off ($29 → $14.50)",
+      "code": "BLACKFRIDAY",
+      "prices": [
+        {
+          "plan": "License",
+          "before": 29,
+          "after": 14.5
+        }
+      ],
+      "ends": "2026-11-30",
+      "starts": "2026-11-23",
+      "terms": "BLACKFRIDAY; one-time purchase; 2026-11-23 to 2026-11-30 (Pacific time)"
+    },
+    {
+      "id": "presentify",
+      "name": "Presentify",
+      "url": "https://presentifyapp.com",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "productivity",
+      "description": "Draw and annotate on your screen, highlight your cursor and clicks, spotlight, and zoom. For presentations, calls, demos, and teaching.",
+      "discount": "30% off",
+      "code": "PRESENTIFY30",
+      "prices": [
+        {
+          "plan": "One-time purchase",
+          "before": 14,
+          "after": 9.8
+        }
+      ],
+      "terms": "Code works on direct purchase from the website only (not the App Store or Setapp). One-time purchase, no subscription.",
+      "starts": "2026-11-18",
+      "ends": "2026-12-02",
+      "maker": "Softal",
+      "makerUrl": "https://softal.io",
+      "icon": "https://raw.githubusercontent.com/rampatra/assets/main/Presentify/Icons/icon_512.png"
+    },
+    {
+      "id": "pretty-progress",
+      "name": "Pretty Progress",
+      "url": "https://prettyprogress.app/download",
+      "platforms": [
+        "iOS"
+      ],
+      "category": "productivity",
+      "description": "Beautiful countdown and progress bar widgets to visualise and track your events and deadlines.",
+      "discount": "50% off",
+      "prices": [
+        {
+          "plan": "Lifetime",
+          "before": 59.99,
+          "after": 29.99
+        }
+      ],
+      "terms": "Automatically applied in the app; no code needed; lifetime one-time purchase; 2026-11-20 to 2026-12-01",
+      "starts": "2026-11-20",
+      "ends": "2026-12-01"
+    },
+    {
+      "id": "proxyman",
+      "name": "Proxyman",
+      "url": "https://proxyman.com/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "developer",
+      "description": "Capture, inspect, and modify HTTP/HTTPS traffic with a native debugging proxy.",
+      "discount": "30% off all plans",
+      "code": "BF2026",
+      "ends": "2026-12-03",
+      "starts": "2026-11-16",
+      "terms": "BF2026; 2026-11-16 to 2026-12-03"
+    },
+    {
+      "id": "quick-expos-3",
+      "name": "Quick Exposé 3",
+      "url": "https://noteifyapp.com/quick-expose/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "Classic Exposé on modern macOS.",
+      "discount": "30% off ($39.99 → $27.99)",
+      "code": "MACPLUSBLACKFRIDAY26",
+      "prices": [
+        {
+          "plan": "License",
+          "before": 39.99,
+          "after": 27.99
+        }
+      ],
+      "ends": "2026-11-30",
+      "starts": "2026-11-01",
+      "terms": "MACPLUSBLACKFRIDAY26; 2026-11-01 to 2026-11-30"
+    },
+    {
+      "id": "recorder-app",
+      "name": "Recorder.app",
+      "url": "https://apps.apple.com/app/apple-store/id6740995613?pt=551454&mt=8",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "audio-video",
+      "description": "Native Mac recorder: screen, windows, camera, mic and system audio at the same time, into separate, perfectly synced files.",
+      "discount": "60% off",
+      "prices": [
+        {
+          "plan": "Lifetime",
+          "before": 44.99,
+          "after": 17.99
+        }
+      ],
+      "ends": "2026-12-01",
+      "starts": "2026-11-20",
+      "terms": "Automatically applied on the Mac App Store; one-time Lifetime unlock (monthly and yearly plans not discounted); 2026-11-20 to 2026-12-01"
+    },
+    {
+      "id": "runestone",
+      "name": "Runestone",
+      "url": "https://apps.apple.com/us/app/runestone-text-editor/id1548193893",
+      "platforms": [
+        "iOS",
+        "iPadOS",
+        "visionOS"
+      ],
+      "category": "developer",
+      "description": "Plain text editor with syntax highlighting for iPhone, iPad, and Apple Vision Pro.",
+      "discount": "50% off Premium ($4.99 USD)",
+      "ends": "2026-11-30",
+      "starts": "2026-11-24",
+      "terms": "Automatically applied to the one-time in-app purchase. No code needed. November 24–30, 2026."
+    },
+    {
+      "id": "screensage-pro",
+      "name": "ScreenSage Pro",
+      "url": "https://screensage.pro/bf2026",
+      "platforms": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "category": "audio-video",
+      "description": "Screen recorder and video editor for Mac with cursor-following auto zoom, camera layouts, and iPhone/iPad capture.",
+      "discount": "53% off",
+      "code": "BFS2026L",
+      "prices": [
+        {
+          "plan": "Lifetime",
+          "before": 449,
+          "after": 209.9
+        }
+      ],
+      "ends": "2026-12-15",
+      "terms": "BFS2026L for Lifetime; BFS2026P for Pro; one-time purchase; until 2026-12-15"
+    },
+    {
+      "id": "scry",
+      "name": "Scry",
+      "url": "https://appsbymo.app/scry/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "productivity",
+      "description": "Captures, annotates and files screenshots, records your screen, and makes the text in every image on your Mac searchable.",
+      "discount": "50% off",
+      "code": "BLACKFRIDAY",
+      "prices": [
+        {
+          "plan": "License",
+          "before": 24,
+          "after": 12
+        }
+      ],
+      "ends": "2026-12-01",
+      "starts": "2026-11-09",
+      "terms": "with code BLACKFRIDAY at appsbymo.app ($24 $12). Nov 9 - Dec 1, 2026"
+    },
+    {
+      "id": "shiftplus",
+      "name": "ShiftPlus",
+      "url": "https://shiftplus.app/black-friday/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "productivity",
+      "description": "Switch your whole Mac workspace with one hotkey: apps, browser profiles, windows, monitors and Spaces.",
+      "discount": "40% off",
+      "code": "BF2026",
+      "prices": [
+        {
+          "plan": "License",
+          "before": 24,
+          "after": 14.4
+        }
+      ],
+      "ends": "2026-12-02",
+      "starts": "2026-11-20",
+      "terms": "BF2026; automatically applied from the sale page; one-time purchase; 2026-11-20 to 2026-12-02"
+    },
+    {
+      "id": "shiori",
+      "name": "Shiori",
+      "url": "https://shioriapp.io",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "productivity",
+      "description": "Bookmark manager with tags and folders for Mac, web, and Chrome.",
+      "discount": "50% off all Lifetime licenses",
+      "code": "BLACK2026FRIDAY50",
+      "ends": "2026-12-01",
+      "starts": "2026-11-12",
+      "terms": "BLACK2026FRIDAY50; automatically applied on the website; 2026-11-12 to 2026-12-01"
+    },
+    {
+      "id": "sip",
+      "name": "Sip",
+      "url": "https://sipapp.io/pricing/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "design",
+      "description": "Modern color picker for Mac that brings ease to color organization and team collaboration.",
+      "discount": "50% off",
+      "code": "BLACKFRIDAY26",
+      "ends": "2026-12-01",
+      "starts": "2026-11-27",
+      "terms": "BLACKFRIDAY26; 2026-11-27 to 2026-12-01"
+    },
+    {
+      "id": "smoothcapture",
+      "name": "SmoothCapture",
+      "url": "https://www.smoothcapture.app/pricing",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "audio-video",
+      "description": "SmoothCapture turns screen recordings into polished app demo videos: auto zoom, a smooth cursor and real 3D iPhone, iPad and Mac models.",
+      "discount": "50% off",
+      "code": "BLACKFRIDAY26",
+      "prices": [
+        {
+          "plan": "Personal",
+          "before": 79,
+          "after": 39.5
+        },
+        {
+          "plan": "Lifetime",
+          "before": 149,
+          "after": 74.5
+        },
+        {
+          "plan": "Chronoid + SmoothCapture bundle",
+          "before": 199,
+          "after": 99.5
+        }
+      ],
+      "terms": "Code applied automatically from the pricing page. One-time purchase.",
+      "starts": "2026-11-03",
+      "ends": "2026-12-02",
+      "maker": "Vu Nguyen",
+      "makerUrl": "https://x.com/vunguyendev",
+      "icon": "https://www.smoothcapture.app/presskit/icon-512.png"
+    },
+    {
+      "id": "snowwall",
+      "name": "SnowWall",
+      "url": "https://snowwall.app",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "Weather for the Mac desktop: snow settles on your windows and slides off when you drag them; rain fogs the glass.",
+      "discount": "33% off ($14.99 → $9.99)",
+      "prices": [
+        {
+          "plan": "License",
+          "before": 14.99,
+          "after": 9.99
+        }
+      ],
+      "ends": "2026-12-01",
+      "starts": "2026-11-27",
+      "terms": "Automatically applied in the Mac App Store; SnowWall Pro one-time in-app purchase, free download; 2026-11-27 to 2026-12-01"
+    },
+    {
+      "id": "spacebroom",
+      "name": "SpaceBroom",
+      "url": "https://spacebroom.app/en/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "Mac cleaner for junk, large files, duplicates, app removal, and malware checks.",
+      "discount": "30% off",
+      "code": "BLACKFRIDAY26",
+      "ends": "2026-12-01",
+      "terms": "BLACKFRIDAY26; yearly discount applies to the first year; Until 2026-12-01"
+    },
+    {
+      "id": "spacepal",
+      "name": "Spacepal",
+      "url": "https://getspacepal.com/black-friday/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "productivity",
+      "description": "Names and live previews for Mac desktops (Spaces), with window search and instant switching.",
+      "discount": "20% off ($9.99 → $7.99)",
+      "prices": [
+        {
+          "plan": "License",
+          "before": 9.99,
+          "after": 7.99
+        }
+      ],
+      "ends": "2026-12-01",
+      "starts": "2026-11-27",
+      "terms": "Automatically applied at checkout; one-time license for up to 3 Macs; 2026-11-27 to 2026-12-01 (Pacific time)"
+    },
+    {
+      "id": "submanager",
+      "name": "SubManager",
+      "url": "https://submanager.app",
+      "platforms": [
+        "macOS",
+        "iOS",
+        "visionOS"
+      ],
+      "category": "finance",
+      "description": "Track subscriptions across iOS, macOS and visionOS and never miss a renewal.",
+      "discount": "50% off",
+      "ends": "2026-11-30",
+      "starts": "2026-11-27",
+      "terms": "Discount available from Nov 27 to Nov 30. During the discount period go to Settings -> SubManager+ to purchase."
+    },
+    {
+      "id": "supasidebar",
+      "name": "SupaSidebar",
+      "url": "https://supasidebar.com",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "productivity",
+      "description": "Arc-style sidebar for browser tabs, bookmarks, and Finder files, with fuzzy search.",
+      "discount": "50% off Lifetime",
+      "code": "SIDEBARBF50",
+      "ends": "2026-12-07",
+      "starts": "2026-11-09",
+      "terms": "SIDEBARBF50; one-time purchase; 2026-11-09 to 2026-12-07"
+    },
+    {
+      "id": "supertab-7",
+      "name": "SuperTab 7",
+      "url": "https://noteifyapp.com/supertab/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "Apps, windows, and clipboard in one panel.",
+      "discount": "30% off",
+      "code": "MACPLUSBLACKFRIDAY26",
+      "prices": [
+        {
+          "plan": "Lifetime",
+          "before": 19.99,
+          "after": 13.99
+        }
+      ],
+      "ends": "2026-11-30",
+      "starts": "2026-11-01",
+      "terms": "MACPLUSBLACKFRIDAY26; 2026-11-01 to 2026-11-30"
+    },
+    {
+      "id": "tcp-viewer",
+      "name": "TCP Viewer",
+      "url": "https://tcpviewer.proxyman.com/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "developer",
+      "description": "Capture and inspect TCP/UDP packets in a native macOS app.",
+      "discount": "30% off all plans",
+      "code": "BF2026",
+      "ends": "2026-12-03",
+      "starts": "2026-11-16",
+      "terms": "BF2026; 2026-11-16 to 2026-12-03"
+    },
+    {
+      "id": "tinyshield",
+      "name": "TinyShield",
+      "url": "https://tinyshield.proxyman.com/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "security",
+      "description": "Monitor app connections and block unwanted apps or domains with a macOS firewall.",
+      "discount": "30% off all plans",
+      "code": "BF2026",
+      "ends": "2026-12-03",
+      "starts": "2026-11-16",
+      "terms": "BF2026; 2026-11-16 to 2026-12-03"
+    },
+    {
+      "id": "umami-manager",
+      "name": "Umami Manager",
+      "url": "https://apps.apple.com/de/app/umami-analytics-manager/id6462423358",
+      "platforms": [
+        "iOS"
+      ],
+      "category": "developer",
+      "description": "Monitor & Analyze & Manage your Umami Analytics on the go.",
+      "discount": "Lifetime 25% off",
+      "terms": "Automatically applied; no code needed; 2026-11-27 to 2026-12-1",
+      "starts": "2026-11-27",
+      "ends": "2026-12-01"
+    },
+    {
+      "id": "wavy-road",
+      "name": "Wavy Road",
+      "url": "https://apps.apple.com/dk/app/wavy-road-endless-driving/id6804942333",
+      "platforms": [
+        "iOS"
+      ],
+      "category": "games",
+      "description": "Endless driving game for iPhone where you steer the road and dodge obstacles.",
+      "discount": "50% off",
+      "ends": "2026-11-30",
+      "starts": "2026-11-24",
+      "terms": "Automatically applied to in-app purchases. No code needed. November 24–30, 2026."
+    },
+    {
+      "id": "whaledeck",
+      "name": "WhaleDeck",
+      "url": "https://apps.apple.com/us/app/docker-manager-gui-whaledeck/id1581548562",
+      "platforms": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "category": "developer",
+      "description": "Effortlessly manage and monitor your Docker servers on your iPhone, iPad, and Mac.",
+      "discount": "Lifetime 40% off ($57 → $35)",
+      "prices": [
+        {
+          "plan": "Lifetime",
+          "before": 57,
+          "after": 35
+        }
+      ],
+      "terms": "Automatically applied; no code needed; 2026-11-27 to 2026-12-1",
+      "starts": "2026-11-27",
+      "ends": "2026-12-01"
+    },
+    {
+      "id": "what-happened",
+      "name": "What Happened",
+      "url": "https://appsbymo.app/whathappened/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "Tells you in plain words why your Mac is slow, hot or full, and fixes it with your OK.",
+      "discount": "50% off",
+      "code": "BLACKFRIDAY",
+      "ends": "2026-12-01",
+      "starts": "2026-11-09",
+      "terms": "with code BLACKFRIDAY at appsbymo.app (regular $13.99). Nov 9 - Dec 1, 2026"
+    },
+    {
+      "id": "wick",
+      "name": "Wick",
+      "url": "https://appsbymo.app/wick/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "productivity",
+      "description": "Every deadline as a burning wick on your Mac: tasks, loans, subscriptions and renewals counting down where you can see them.",
+      "discount": "50% off",
+      "code": "BLACKFRIDAY",
+      "prices": [
+        {
+          "plan": "License",
+          "before": 15.99,
+          "after": 7.99
+        }
+      ],
+      "ends": "2026-12-01",
+      "starts": "2026-11-09",
+      "terms": "with code BLACKFRIDAY at appsbymo.app (regular $14.99); Mac App Store $15.99 $7.99, no code. Nov 9 - Dec 1, 2026"
+    },
+    {
+      "id": "wins",
+      "name": "Wins",
+      "url": "https://wins.cool/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "Native macOS window manager with window snapping, Dock previews, and keyboard shortcuts.",
+      "discount": "40% off",
+      "code": "BF_26",
+      "ends": "2026-12-01",
+      "starts": "2026-11-11",
+      "terms": "Use BF_26 at checkout on Single, Pro, and X lifetime licenses and eligible update renewals. 2026-11-11 to 2026-12-01."
     }
   ]
 }
