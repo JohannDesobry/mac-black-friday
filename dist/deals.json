@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T13:20:18.444Z",
+  "updatedAt": "2026-11-09T13:20:32.896Z",
   "categories": [
     {
       "id": "ai",
@@ -183,6 +183,21 @@
       "terms": "with code BLACKFRIDAY at appsbymo.app (regular $14.99). Nov 9 - Dec 1, 2026"
     },
     {
+      "id": "cooldock",
+      "name": "CoolDock",
+      "url": "https://cooldock.app",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "Second Dock with live widgets for music, calendars, weather, tasks, and system stats.",
+      "discount": "50% off all Lifetime licenses",
+      "code": "BLACK2026FRIDAY50",
+      "ends": "2026-12-01",
+      "starts": "2026-11-12",
+      "terms": "BLACK2026FRIDAY50; automatically applied on the website; 2026-11-12 to 2026-12-01"
+    },
+    {
       "id": "cozy",
       "name": "Cozy",
       "url": "https://cozyjournal.app",
@@ -230,6 +245,21 @@
       "terms": "Automatically applied on the App Store and Google Play; one-time purchase; desktop-only Pro $19 → $11.40 with BF2026; subscriptions excluded; 2026-11-27 to…"
     },
     {
+      "id": "dockflow",
+      "name": "DockFlow",
+      "url": "https://dockflowapp.io",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "Save and switch between macOS Dock presets.",
+      "discount": "50% off all Lifetime licenses",
+      "code": "BLACK2026FRIDAY50",
+      "ends": "2026-12-01",
+      "starts": "2026-11-12",
+      "terms": "BLACK2026FRIDAY50; automatically applied on the website; 2026-11-12 to 2026-12-01"
+    },
+    {
       "id": "dockview-2",
       "name": "DockView 2",
       "url": "https://noteifyapp.com/dockview/",
@@ -250,6 +280,36 @@
       "ends": "2026-11-30",
       "starts": "2026-11-01",
       "terms": "MACPLUSBLACKFRIDAY26; 2026-11-01 to 2026-11-30"
+    },
+    {
+      "id": "extrabar",
+      "name": "ExtraBar",
+      "url": "https://extrabar.app",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "Customize the Mac menu bar with shortcuts, quick actions, and deep links.",
+      "discount": "50% off all Lifetime licenses",
+      "code": "BLACK2026FRIDAY50",
+      "ends": "2026-12-01",
+      "starts": "2026-11-12",
+      "terms": "BLACK2026FRIDAY50; automatically applied on the website; 2026-11-12 to 2026-12-01"
+    },
+    {
+      "id": "extradock",
+      "name": "ExtraDock",
+      "url": "https://extradock.app",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "Create floating docks anywhere on any Mac screen.",
+      "discount": "50% off all Lifetime licenses",
+      "code": "BLACK2026FRIDAY50",
+      "ends": "2026-12-01",
+      "starts": "2026-11-12",
+      "terms": "BLACK2026FRIDAY50; automatically applied on the website; 2026-11-12 to 2026-12-01"
     },
     {
       "id": "fileside",
@@ -606,6 +666,21 @@
       "ends": "2026-12-01",
       "starts": "2026-11-09",
       "terms": "with code BLACKFRIDAY at appsbymo.app ($24 $12). Nov 9 - Dec 1, 2026"
+    },
+    {
+      "id": "shiori",
+      "name": "Shiori",
+      "url": "https://shioriapp.io",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "productivity",
+      "description": "Bookmark manager with tags and folders for Mac, web, and Chrome.",
+      "discount": "50% off all Lifetime licenses",
+      "code": "BLACK2026FRIDAY50",
+      "ends": "2026-12-01",
+      "starts": "2026-11-12",
+      "terms": "BLACK2026FRIDAY50; automatically applied on the website; 2026-11-12 to 2026-12-01"
     },
     {
       "id": "spacebroom",
