@@ -24,7 +24,7 @@ This repo lists Black Friday deals on Mac, iPhone and iPad apps. Each deal is on
 
 Required: `name`, `url`, `platforms`, `category`, `discount`, `ends`. Everything else is optional.
 
-- `url`: the app's own page that shows the Black Friday price. https, no shortened links.
+- `url`: the app's own page (pricing or Black Friday page). https, no shortened links.
 - `platforms`: any of `macOS`, `iOS`, `iPadOS`, `visionOS`, `watchOS`.
 - `category`: an `id` from [categories.json](categories.json); use `other` if unsure.
 - `discount`: the headline, up to 30 characters, like `40% off` or `Lifetime $29`.
@@ -34,4 +34,4 @@ Required: `name`, `url`, `platforms`, `category`, `discount`, `ends`. Everything
 - Optional too: `starts` (November or later), `terms` (up to 160 characters), `makerUrl`, `icon` (https link to a square icon).
 - Never set `featured`.
 
-Only finished Mac and iOS apps with a real Black Friday price shown on their own page are merged. See [RULES.md](RULES.md).
+Only finished Mac and iOS apps with a real Black Friday deal are merged. If the deal starts later, set `starts`. See [RULES.md](RULES.md).

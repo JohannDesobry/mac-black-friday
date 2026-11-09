@@ -5,6 +5,12 @@ import { readCategories, readDeals, validateDeal } from './lib.mjs'
 
 const { GITHUB_TOKEN, GITHUB_REPOSITORY, PR_NUMBER, HEAD_SHA, PR_AUTHOR } = process.env
 const MARKER = '<!-- deal-review -->'
+
+// The maintainer's own pull requests (seeding deals, house apps) aren't reviewed.
+if (PR_AUTHOR && PR_AUTHOR === process.env.GITHUB_REPOSITORY_OWNER) {
+  console.log(`Pull request by the maintainer @${PR_AUTHOR}: no review.`)
+  process.exit(0)
+}
 const LABELS = { ready: { name: 'ready', color: '2da44e' }, changes: { name: 'needs changes', color: 'd93f0b' } }
 
 async function gh(path, options = {}) {
@@ -77,14 +83,14 @@ async function main() {
         const same = others.find((d) => key(d.deal.url) === key(deal.url))
         if (same) problems.push(`This app is already listed in \`deals/${same.file}\`. One entry per app.`)
       } catch {}
-      // The 3-apps-per-maker limit counts this GitHub account's merged deal pull requests.
+      // The 5-apps-per-maker limit counts this GitHub account's merged deal pull requests.
       if (PR_AUTHOR) {
         const query = encodeURIComponent(`repo:${GITHUB_REPOSITORY} is:pr is:merged author:${PR_AUTHOR}`)
         const response = await fetch(`https://api.github.com/search/issues?q=${query}`, {
           headers: { Authorization: `Bearer ${GITHUB_TOKEN}`, Accept: 'application/vnd.github+json' },
         })
         const merged = response.ok ? (await response.json()).total_count : 0
-        if (merged >= 3) problems.push(`@${PR_AUTHOR} already has ${merged} deals listed. The limit is 3 per maker.`)
+        if (merged >= 5) problems.push(`@${PR_AUTHOR} already has ${merged} deals listed. The limit is 5 per maker.`)
       }
       if (deal.featured) problems.push('`featured` is set by the maintainers for paid spots. Please remove it.')
 
