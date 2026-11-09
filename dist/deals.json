@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T13:19:50.401Z",
+  "updatedAt": "2026-11-09T13:20:04.962Z",
   "categories": [
     {
       "id": "ai",
@@ -592,6 +592,20 @@
       "ends": "2026-12-01",
       "starts": "2026-11-09",
       "terms": "with code BLACKFRIDAY at appsbymo.app ($24 $12). Nov 9 - Dec 1, 2026"
+    },
+    {
+      "id": "spacebroom",
+      "name": "SpaceBroom",
+      "url": "https://spacebroom.app/en/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "Mac cleaner for junk, large files, duplicates, app removal, and malware checks.",
+      "discount": "30% off",
+      "code": "BLACKFRIDAY26",
+      "ends": "2026-12-01",
+      "terms": "BLACKFRIDAY26; yearly discount applies to the first year; Until 2026-12-01"
     },
     {
       "id": "submanager",
