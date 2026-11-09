@@ -38,6 +38,7 @@ Hi! I build native Mac and iOS apps and maintain this list. Follow me on [X](htt
 
 | App | Platforms | What it does | Deal |
 | --- | --- | --- | --- |
+| [Cozy](https://cozyjournal.app) | macOS, iOS | Private journal for Mac, Windows, and iPhone with entries stored as local files. | **50% off ($49 → $24.50)** · code **BLACKFRIDAY** · License ~~$49~~ $24.50 · BLACKFRIDAY; one-time purchase; 2026-11-23 to 2026-11-30 (Pacific time) · until Nov 30 |
 | [PDF Pals](https://pdfpals.com/buy) | macOS | Chat with your documents on Mac with built-in local AI models. Word, Excel, PowerPoint, EPUB, Markdown and PDF. | **Lifetime ~~$249~~ $149** · Basic ~~$59~~ $47.20 · Plus ~~$99~~ $79.20 · until Dec 1 |
 
 ### Reading and Research
@@ -45,5 +46,11 @@ Hi! I build native Mac and iOS apps and maintain this list. Follow me on [X](htt
 | App | Platforms | What it does | Deal |
 | --- | --- | --- | --- |
 | [KTool](https://ktool.io/pricing#lifetime) | macOS, iOS | Send articles, newsletters and RSS feeds to your Kindle, from your browser or your phone. | **Lifetime ~~$179~~ $149** · Everything in Platinum, pay once · until Dec 1 |
+
+### Utilities and Menu Bar
+
+| App | Platforms | What it does | Deal |
+| --- | --- | --- | --- |
+| [Picmal](https://picmal.app) | macOS | Convert, compress, and edit images, video, audio, and PDFs locally on Mac. | **50% off ($29 → $14.50)** · code **BLACKFRIDAY** · License ~~$29~~ $14.50 · BLACKFRIDAY; one-time purchase; 2026-11-23 to 2026-11-30 (Pacific time) · until Nov 30 |
 
 <!-- deals:end -->
