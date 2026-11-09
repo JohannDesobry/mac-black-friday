@@ -1,21 +1,16 @@
 {
   "name": "FaceScreen",
   "url": "https://facescreen.app",
-  "platforms": [
-    "macOS"
-  ],
+  "platforms": ["macOS", "iOS", "iPadOS"],
   "category": "audio-video",
-  "description": "Floating camera and text overlays with a ring light for recordings and video calls.",
-  "discount": "30% off ($5.99 → $4.19)",
+  "description": "Floating camera overlay plus a text overlay (name, handle) and a ring light, for screen recordings and video calls.",
+  "discount": "30% off",
   "code": "FACESCREEN30",
-  "prices": [
-    {
-      "plan": "License",
-      "before": 5.99,
-      "after": 4.19
-    }
-  ],
-  "ends": "2026-12-02",
+  "prices": [{ "plan": "One-time purchase", "before": 5.99, "after": 4.19 }],
+  "terms": "Code works on direct purchase from the website only (not the App Store or Setapp). One-time purchase, no subscription.",
   "starts": "2026-11-18",
-  "terms": "FACESCREEN30; direct website purchase, one-time payment; 2026-11-18 to 2026-12-02"
+  "ends": "2026-12-02",
+  "maker": "Softal",
+  "makerUrl": "https://softal.io",
+  "icon": "https://raw.githubusercontent.com/rampatra/assets/main/FaceScreen/Icons/icon_512x512.png"
 }
