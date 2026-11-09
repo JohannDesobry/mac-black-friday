@@ -67,5 +67,6 @@ Hi! I build native Mac and iOS apps and maintain this list. Follow me on [X](htt
 | [Iruka](https://iruka.sh/black-friday) | macOS | Native file manager for Mac with dual panes, previews, and a terminal that follows your folder. | **30% off** · code **BF30** · License ~~$19.99~~ $13.99 · BF30; new licences only, one-time purchase; 2026-11-06 to 2026-12-03 · until Dec 3 |
 | [Picmal](https://picmal.app) | macOS | Convert, compress, and edit images, video, audio, and PDFs locally on Mac. | **50% off ($29 → $14.50)** · code **BLACKFRIDAY** · License ~~$29~~ $14.50 · BLACKFRIDAY; one-time purchase; 2026-11-23 to 2026-11-30 (Pacific time) · until Nov 30 |
 | [What Happened](https://appsbymo.app/whathappened/) | macOS | Tells you in plain words why your Mac is slow, hot or full, and fixes it with your OK. | **50% off** · code **BLACKFRIDAY** · with code BLACKFRIDAY at appsbymo.app (regular $13.99). Nov 9 - Dec 1, 2026 · until Dec 1 |
+| [Wins](https://wins.cool/) | macOS | Native macOS window manager with window snapping, Dock previews, and keyboard shortcuts. | **40% off** · code **BF_26** · Use BF_26 at checkout on Single, Pro, and X lifetime licenses and eligible update renewals. 2026-11-11 to 2026-12-01 · until Dec 1 |
 
 <!-- deals:end -->

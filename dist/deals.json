@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T13:17:09.919Z",
+  "updatedAt": "2026-11-09T13:17:22.184Z",
   "categories": [
     {
       "id": "ai",
@@ -386,6 +386,21 @@
       "ends": "2026-12-01",
       "starts": "2026-11-09",
       "terms": "with code BLACKFRIDAY at appsbymo.app (regular $14.99); Mac App Store $15.99 $7.99, no code. Nov 9 - Dec 1, 2026"
+    },
+    {
+      "id": "wins",
+      "name": "Wins",
+      "url": "https://wins.cool/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "Native macOS window manager with window snapping, Dock previews, and keyboard shortcuts.",
+      "discount": "40% off",
+      "code": "BF_26",
+      "ends": "2026-12-01",
+      "starts": "2026-11-11",
+      "terms": "Use BF_26 at checkout on Single, Pro, and X lifetime licenses and eligible update renewals. 2026-11-11 to 2026-12-01."
     }
   ]
 }
