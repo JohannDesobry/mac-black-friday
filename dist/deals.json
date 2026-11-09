@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T13:19:37.984Z",
+  "updatedAt": "2026-11-09T13:19:50.401Z",
   "categories": [
     {
       "id": "ai",
@@ -410,6 +410,27 @@
       "ends": "2026-12-01",
       "starts": "2026-11-09",
       "terms": "with code BLACKFRIDAY at appsbymo.app (regular $9.99); Mac App Store $9.99 $4.99, no code; App Store (iPhone) $5.99 $2.99, no code. Nov 9 - Dec 1, 2026"
+    },
+    {
+      "id": "neotiler",
+      "name": "NeoTiler",
+      "url": "https://getneotiler.com/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "Native macOS window manager with shortcuts, snapping, workspaces, and Dock previews.",
+      "discount": "30% off",
+      "code": "BF30",
+      "prices": [
+        {
+          "plan": "Lifetime",
+          "before": 9.99,
+          "after": 6.99
+        }
+      ],
+      "ends": "2026-12-01",
+      "terms": "BF30; automatically applied at checkout; Until 2026-12-01"
     },
     {
       "id": "noteline",
