@@ -82,4 +82,10 @@ Hi! I build native Mac and iOS apps and maintain this list. Follow me on [X](htt
 | [What Happened](https://appsbymo.app/whathappened/) | macOS | Tells you in plain words why your Mac is slow, hot or full, and fixes it with your OK. | **50% off** · code **BLACKFRIDAY** · with code BLACKFRIDAY at appsbymo.app (regular $13.99). Nov 9 - Dec 1, 2026 · until Dec 1 |
 | [Wins](https://wins.cool/) | macOS | Native macOS window manager with window snapping, Dock previews, and keyboard shortcuts. | **40% off** · code **BF_26** · Use BF_26 at checkout on Single, Pro, and X lifetime licenses and eligible update renewals. 2026-11-11 to 2026-12-01 · until Dec 1 |
 
+### Health and Fitness
+
+| App | Platforms | What it does | Deal |
+| --- | --- | --- | --- |
+| [Habit Pixel](https://habitpixel.com/get) | iOS | Offline habit tracker with pixel check-ins, streak goals, reminders, and widgets for iPhone and Android. | **33% off** · Lifetime ~~$29.99~~ $19.99 · Automatically applied in the app; local prices vary; 2026-11-19 to 2026-12-02 · until Dec 2 |
+
 <!-- deals:end -->

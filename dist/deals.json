@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T13:18:34.306Z",
+  "updatedAt": "2026-11-09T13:18:45.802Z",
   "categories": [
     {
       "id": "ai",
@@ -232,6 +232,27 @@
       ],
       "ends": "2026-11-30",
       "terms": "23-30 Nov. Code: BLKFRD26"
+    },
+    {
+      "id": "habit-pixel",
+      "name": "Habit Pixel",
+      "url": "https://habitpixel.com/get",
+      "platforms": [
+        "iOS"
+      ],
+      "category": "health",
+      "description": "Offline habit tracker with pixel check-ins, streak goals, reminders, and widgets for iPhone and Android.",
+      "discount": "33% off",
+      "prices": [
+        {
+          "plan": "Lifetime",
+          "before": 29.99,
+          "after": 19.99
+        }
+      ],
+      "ends": "2026-12-02",
+      "starts": "2026-11-19",
+      "terms": "Automatically applied in the app; local prices vary; 2026-11-19 to 2026-12-02"
     },
     {
       "id": "infinidesk",
