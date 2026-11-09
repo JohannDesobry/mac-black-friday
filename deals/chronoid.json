@@ -1,20 +1,20 @@
 {
   "name": "Chronoid",
   "url": "https://www.chronoid.app/pricing",
-  "platforms": [
-    "macOS"
-  ],
+  "platforms": ["macOS"],
   "category": "productivity",
-  "description": "Track apps, sites, and documents, organize projects, and turn hours into invoices on Mac.",
+  "description": "Automatic time tracking for Mac. Logs apps, sites and docs, sorts them into projects and turns hours into invoices. Data stays on your Mac.",
   "discount": "50% off",
   "code": "BLACKFRIDAY26",
   "prices": [
-    {
-      "plan": "Lifetime",
-      "before": 149,
-      "after": 74.5
-    }
+    { "plan": "Personal", "before": 99, "after": 49.5 },
+    { "plan": "Lifetime", "before": 149, "after": 74.5 },
+    { "plan": "Chronoid + SmoothCapture bundle", "before": 199, "after": 99.5 }
   ],
+  "terms": "Code applied automatically from the pricing page. One-time purchase.",
+  "starts": "2026-11-03",
   "ends": "2026-12-02",
-  "terms": "BLACKFRIDAY26; automatically applied from the pricing page or entered at checkout; Until 2026-12-02"
+  "maker": "Vu Nguyen",
+  "makerUrl": "https://x.com/vunguyendev",
+  "icon": "https://www.chronoid.app/app-icon.png"
 }
