@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T13:16:14.600Z",
+  "updatedAt": "2026-11-09T13:16:28.316Z",
   "categories": [
     {
       "id": "ai",
@@ -248,6 +248,21 @@
       "ends": "2026-12-01",
       "starts": "2026-11-09",
       "terms": "with code BLACKFRIDAY at appsbymo.app ($24 $12). Nov 9 - Dec 1, 2026"
+    },
+    {
+      "id": "supasidebar",
+      "name": "SupaSidebar",
+      "url": "https://supasidebar.com",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "productivity",
+      "description": "Arc-style sidebar for browser tabs, bookmarks, and Finder files, with fuzzy search.",
+      "discount": "50% off Lifetime",
+      "code": "SIDEBARBF50",
+      "ends": "2026-12-07",
+      "starts": "2026-11-09",
+      "terms": "SIDEBARBF50; one-time purchase; 2026-11-09 to 2026-12-07"
     },
     {
       "id": "what-happened",
