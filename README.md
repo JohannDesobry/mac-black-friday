@@ -34,11 +34,16 @@ Hi! I build native Mac and iOS apps and maintain this list. Follow me on [X](htt
 | --- | --- | --- | --- |
 | [BoltAI](https://boltai.com/pricing) | macOS, iOS | The native AI workspace: chats, agents and projects with ChatGPT, Claude, Gemini and local AI models. | **40% off** · code **BFCM2026** · Pro ~~$99~~ $59 · Lifetime ~~$399~~ $239 · until Dec 1 |
 
+### Productivity
+
+| App | Platforms | What it does | Deal |
+| --- | --- | --- | --- |
+| [PDF Pals](https://pdfpals.com/buy) | macOS | Chat with your documents on Mac with built-in local AI models. Word, Excel, PowerPoint, EPUB, Markdown and PDF. | **Lifetime ~~$249~~ $149** · Basic ~~$59~~ $47.20 · Plus ~~$99~~ $79.20 · until Dec 1 |
+
 ### Reading and Research
 
 | App | Platforms | What it does | Deal |
 | --- | --- | --- | --- |
 | [KTool](https://ktool.io/pricing#lifetime) | macOS, iOS | Send articles, newsletters and RSS feeds to your Kindle, from your browser or your phone. | **Lifetime ~~$179~~ $149** · Everything in Platinum, pay once · until Dec 1 |
-| [PDF Pals](https://pdfpals.com/buy) | macOS | Chat with your documents on Mac with built-in local AI models. Word, Excel, PowerPoint, EPUB, Markdown and PDF. | **Lifetime ~~$249~~ $149** · Basic ~~$59~~ $47.20 · Plus ~~$99~~ $79.20 · until Dec 1 |
 
 <!-- deals:end -->

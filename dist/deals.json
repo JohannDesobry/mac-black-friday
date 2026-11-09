@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T10:15:56.534Z",
+  "updatedAt": "2026-11-09T13:15:29.882Z",
   "categories": [
     {
       "id": "ai",
@@ -119,7 +119,7 @@
       "platforms": [
         "macOS"
       ],
-      "category": "reading",
+      "category": "productivity",
       "description": "Chat with your documents on Mac with built-in local AI models. Word, Excel, PowerPoint, EPUB, Markdown and PDF.",
       "discount": "Lifetime $149",
       "prices": [
