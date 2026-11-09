@@ -1,0 +1,14 @@
+{
+  "name": "Proxyman",
+  "url": "https://proxyman.com/",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "developer",
+  "description": "Capture, inspect, and modify HTTP/HTTPS traffic with a native debugging proxy.",
+  "discount": "30% off all plans",
+  "code": "BF2026",
+  "ends": "2026-12-03",
+  "starts": "2026-11-16",
+  "terms": "BF2026; 2026-11-16 to 2026-12-03"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "SmoothCapture",
+  "url": "https://www.smoothcapture.app/pricing",
+  "platforms": ["macOS"],
+  "category": "audio-video",
+  "description": "SmoothCapture turns screen recordings into polished app demo videos: auto zoom, a smooth cursor and real 3D iPhone, iPad and Mac models.",
+  "discount": "50% off",
+  "code": "BLACKFRIDAY26",
+  "prices": [
+    { "plan": "Personal", "before": 79, "after": 39.5 },
+    { "plan": "Lifetime", "before": 149, "after": 74.5 },
+    { "plan": "Chronoid + SmoothCapture bundle", "before": 199, "after": 99.5 }
+  ],
+  "terms": "Code applied automatically from the pricing page. One-time purchase.",
+  "starts": "2026-11-03",
+  "ends": "2026-12-02",
+  "maker": "Vu Nguyen",
+  "makerUrl": "https://x.com/vunguyendev",
+  "icon": "https://www.smoothcapture.app/presskit/icon-512.png"
+}

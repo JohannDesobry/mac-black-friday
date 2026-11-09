@@ -1,0 +1,16 @@
+{
+  "name": "KeyScreen",
+  "url": "https://keyscreen.app",
+  "platforms": ["macOS"],
+  "category": "utilities",
+  "description": "Shows the keys you press on screen, for tutorials, streams, and live demos. Native Mac app.",
+  "discount": "30% off",
+  "code": "KEYSCREEN30",
+  "prices": [{ "plan": "One-time purchase", "before": 5.99, "after": 4.19 }],
+  "terms": "Code works on direct purchase from the website only (not the App Store or Setapp). One-time purchase, no subscription.",
+  "starts": "2026-11-18",
+  "ends": "2026-12-02",
+  "maker": "Softal",
+  "makerUrl": "https://softal.io",
+  "icon": "https://raw.githubusercontent.com/rampatra/assets/main/KeyScreen/Icons/icon_512x512.png"
+}

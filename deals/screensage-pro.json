@@ -1,0 +1,14 @@
+{
+  "name": "ScreenSage Pro",
+  "url": "https://screensage.pro/bf2026?ref=boltai-bf2026",
+  "platforms": ["macOS"],
+  "category": "audio-video",
+  "discount": "Up to 53% off",
+  "description": "Native Mac screen recorder and editor for polished demos, with automatic cursor zoom and camera layouts.",
+  "prices": [
+    {"plan": "Pro (3 Macs)", "before": 149, "after": 79.90},
+    {"plan": "Lifetime Updates (3 Macs)", "before": 449, "after": 209.90}
+  ],
+  "terms": "Pro: BFS2026P (46% off). Lifetime: BFS2026L (53% off). One-time payment.",
+  "ends": "2026-12-15"
+}
