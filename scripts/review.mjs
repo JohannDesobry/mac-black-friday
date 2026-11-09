@@ -1,4 +1,4 @@
-// Reviews one pull request and leaves one comment on it, plus a "ready" or "needs changes" label.
+// Reviews one pull request (up to 5 deal files) and leaves one comment on it, plus a "ready" or "needs changes" label.
 // Runs from the base branch (pull_request_target), so it never runs code from the pull request: the deal file is
 // fetched through the GitHub API and only parsed as JSON.
 import { readCategories, readDeals, validateDeal } from './lib.mjs'
@@ -52,70 +52,92 @@ async function checkPage(deal) {
   }
 }
 
+const MAX_DEALS = 5
+
+/** How many deal files this GitHub account already has in merged pull requests. */
+async function mergedDealCount(author) {
+  const query = encodeURIComponent(`repo:${GITHUB_REPOSITORY} is:pr is:merged author:${author}`)
+  const response = await fetch(`https://api.github.com/search/issues?q=${query}&per_page=50`, {
+    headers: { Authorization: `Bearer ${GITHUB_TOKEN}`, Accept: 'application/vnd.github+json' },
+  })
+  if (!response.ok) return 0
+  let count = 0
+  for (const pr of (await response.json()).items || []) {
+    const prFiles = await gh(`/pulls/${pr.number}/files?per_page=100`)
+    count += (prFiles || []).filter((f) => /^deals\/[^/]+\.json$/.test(f.filename) && f.status === 'added').length
+  }
+  return count
+}
+
+/** Checks one deal file. Returns its name, its problems and notes about its page. */
+async function reviewDeal(file, existing, categoryIds) {
+  const problems = []
+  const notes = []
+  const content = await gh(`/contents/${encodeURIComponent('deals/' + file).replace(/%2F/g, '/')}?ref=${HEAD_SHA}`)
+  let deal
+  try {
+    deal = JSON.parse(Buffer.from(content.content, 'base64').toString('utf8'))
+  } catch {
+    return { name: file, problems: ['not valid JSON'], notes }
+  }
+  for (const error of validateDeal(file, deal, categoryIds)) problems.push(error)
+  try {
+    const key = (url) => new URL(url).hostname.replace(/^www\./, '') + new URL(url).pathname.replace(/\/$/, '')
+    const same = existing.find((d) => d.file !== file && key(d.deal.url) === key(deal.url))
+    if (same) problems.push(`already listed in \`deals/${same.file}\` (one entry per app)`)
+  } catch {}
+  if (deal.featured) problems.push('`featured` is set by the maintainers, please remove it')
+
+  if (deal.url) {
+    const page = await checkPage(deal)
+    const startsLater = deal.starts && deal.starts > new Date().toISOString().slice(0, 10)
+    if (!page.reachable) notes.push(`couldn't check the page: ${page.note}`)
+    else if (startsLater) notes.push(`starts ${deal.starts}; the page can show the sale price from then`)
+    else {
+      if (!page.sale) notes.push("the page doesn't mention Black Friday yet")
+      if (deal.prices?.length && !page.priceShown) notes.push("the sale price isn't on the page yet, or it's drawn by JavaScript")
+      if (page.codeShown === false) notes.push(`the code \`${deal.code}\` isn't on the page (fine if it's applied at checkout)`)
+    }
+  }
+  return { name: deal.name || file, problems, notes }
+}
+
 async function main() {
   const files = await gh(`/pulls/${PR_NUMBER}/files?per_page=100`)
   const problems = []
-  const notes = []
 
   const dealFiles = files.filter((f) => /^deals\/[^/]+\.json$/.test(f.filename) && f.status !== 'removed')
   const others = files.filter((f) => !dealFiles.includes(f))
-  if (dealFiles.length === 0) problems.push('Add your deal as one file in `deals/`, like `deals/your-app.json`.')
-  if (dealFiles.length > 1) problems.push('One deal per pull request, please: this one changes more than one file in `deals/`.')
-  if (others.length) problems.push(`Only your deal file should change. Please remove: ${others.map((f) => '`' + f.filename + '`').join(', ')}.`)
+  if (dealFiles.length === 0) problems.push('Add your deal as a file in `deals/`, like `deals/your-app.json`.')
+  if (dealFiles.length > MAX_DEALS) problems.push(`Up to ${MAX_DEALS} deals per developer: this pull request has ${dealFiles.length}.`)
+  if (others.length) problems.push(`Only your deal files should change. Please remove: ${others.map((f) => '`' + f.filename + '`').join(', ')}.`)
 
-  let deal
-  let page
-  if (dealFiles.length === 1) {
-    const file = dealFiles[0].filename.replace(/^deals\//, '')
-    const content = await gh(`/contents/${encodeURIComponent('deals/' + file).replace(/%2F/g, '/')}?ref=${HEAD_SHA}`)
-    try {
-      deal = JSON.parse(Buffer.from(content.content, 'base64').toString('utf8'))
-    } catch {
-      problems.push('`deals/' + file + '` is not valid JSON.')
-    }
-    if (deal) {
-      const categoryIds = readCategories().map((c) => c.id)
-      for (const error of validateDeal(file, deal, categoryIds)) problems.push(`\`${file}\`: ${error}.`)
-
-      const others = readDeals().filter((d) => d.file !== file)
-      try {
-        const key = (url) => new URL(url).hostname.replace(/^www\./, '') + new URL(url).pathname.replace(/\/$/, '')
-        const same = others.find((d) => key(d.deal.url) === key(deal.url))
-        if (same) problems.push(`This app is already listed in \`deals/${same.file}\`. One entry per app.`)
-      } catch {}
-      // The 5-apps-per-maker limit counts this GitHub account's merged deal pull requests.
-      if (PR_AUTHOR) {
-        const query = encodeURIComponent(`repo:${GITHUB_REPOSITORY} is:pr is:merged author:${PR_AUTHOR}`)
-        const response = await fetch(`https://api.github.com/search/issues?q=${query}`, {
-          headers: { Authorization: `Bearer ${GITHUB_TOKEN}`, Accept: 'application/vnd.github+json' },
-        })
-        const merged = response.ok ? (await response.json()).total_count : 0
-        if (merged >= 5) problems.push(`@${PR_AUTHOR} already has ${merged} deals listed. The limit is 5 per maker.`)
-      }
-      if (deal.featured) problems.push('`featured` is set by the maintainers for paid spots. Please remove it.')
-
-      if (deal.url) {
-        page = await checkPage(deal)
-        if (!page.reachable) notes.push(`Couldn't check ${deal.url}: ${page.note}.`)
-        else {
-          if (!page.sale) notes.push("The linked page doesn't mention Black Friday or Cyber Monday yet. It needs to before we merge.")
-          if (deal.prices?.length && !page.priceShown) notes.push("The sale price isn't on the linked page yet, or it is drawn by JavaScript. A maintainer will check.")
-          if (page.codeShown === false) notes.push(`The code \`${deal.code}\` isn't on the linked page. That's fine if it's applied at checkout.`)
-        }
-      }
-    }
+  // The 5-apps-per-developer limit counts deals already merged from this account plus the new ones here.
+  if (PR_AUTHOR && dealFiles.length && dealFiles.length <= MAX_DEALS) {
+    const merged = await mergedDealCount(PR_AUTHOR)
+    if (merged + dealFiles.filter((f) => f.status === 'added').length > MAX_DEALS)
+      problems.push(`@${PR_AUTHOR} already has ${merged} deal${merged === 1 ? '' : 's'} listed. The limit is ${MAX_DEALS} per developer.`)
   }
 
-  const ready = problems.length === 0
+  const results = []
+  if (dealFiles.length && dealFiles.length <= MAX_DEALS) {
+    const categoryIds = readCategories().map((c) => c.id)
+    const existing = readDeals()
+    for (const f of dealFiles) results.push(await reviewDeal(f.filename.replace(/^deals\//, ''), existing, categoryIds))
+  }
+
+  const ready = problems.length === 0 && results.every((r) => r.problems.length === 0)
   const lines = [MARKER]
-  if (ready) {
-    lines.push(`Thanks${PR_AUTHOR ? ', @' + PR_AUTHOR : ''}! **${deal.name}** passes the checks.`)
-    if (page?.reachable && page.sale && (page.priceShown || !deal.prices?.length)) lines.push('', 'Its page shows the Black Friday offer. A maintainer will merge it soon.')
-    else lines.push('', 'A maintainer will look at the linked page and merge it once the Black Friday price and dates are shown there.')
-  } else {
-    lines.push('Thanks for adding your deal! A few things to fix first:', '', ...problems.map((p) => `- ${p}`), '', `Push a fix to this branch and I'll check again. Here are the [rules](https://github.com/${GITHUB_REPOSITORY}/blob/main/RULES.md).`)
+  lines.push(ready ? `Thanks${PR_AUTHOR ? ', @' + PR_AUTHOR : ''}! Everything passes the checks.` : 'Thanks for adding your deal! A few things to fix first:')
+  if (problems.length) lines.push('', ...problems.map((p) => `- ${p}`))
+  if (results.length) {
+    lines.push('')
+    for (const r of results) {
+      lines.push(`- ${r.problems.length ? '❌' : '✅'} **${r.name}**${r.problems.length ? ': ' + r.problems.join('; ') : ''}`)
+      for (const n of r.notes) lines.push(`  - ${n}`)
+    }
   }
-  if (notes.length) lines.push('', '**About the linked page**', '', ...notes.map((n) => `- ${n}`))
+  lines.push('', ready ? 'A maintainer will merge it soon.' : `Push a fix to this branch and I'll check again. Here are the [rules](https://github.com/${GITHUB_REPOSITORY}/blob/main/RULES.md).`)
   const body = lines.join('\n')
 
   const comments = await gh(`/issues/${PR_NUMBER}/comments?per_page=100`)
