@@ -1,0 +1,16 @@
+{
+  "name": "Device MCP",
+  "url": "https://devicemcp.ai/",
+  "platforms": [
+    "macOS",
+    "iOS",
+    "iPadOS"
+  ],
+  "category": "developer",
+  "description": "Mirror and control iPhone and iPad from your Mac, with MCP tools for AI agents.",
+  "discount": "30% off all plans",
+  "code": "BF2026",
+  "ends": "2026-12-03",
+  "starts": "2026-11-16",
+  "terms": "BF2026; applies to early-bird prices; 2026-11-16 to 2026-12-03"
+}

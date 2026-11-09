@@ -1,0 +1,23 @@
+{
+  "name": "Mac 4 Breakfast",
+  "url": "https://www.mac4breakfast.app",
+  "platforms": [
+    "macOS",
+    "iOS",
+    "iPadOS"
+  ],
+  "category": "utilities",
+  "description": "Menu bar battery app for Mac: battery health, cycle count, live watts and smart alerts, plus iPhone, iPad and AirPods batteries.",
+  "discount": "50% off ($9.99 → $4.99)",
+  "code": "BLACKFRIDAY26",
+  "prices": [
+    {
+      "plan": "License",
+      "before": 9.99,
+      "after": 4.99
+    }
+  ],
+  "ends": "2026-12-01",
+  "starts": "2026-11-23",
+  "terms": "BLACKFRIDAY26; one-time purchase, license covers 3 Macs; 2026-11-23 to 2026-12-01 (UTC)"
+}

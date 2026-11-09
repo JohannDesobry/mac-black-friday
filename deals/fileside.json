@@ -1,0 +1,19 @@
+{
+  "name": "Fileside",
+  "url": "https://www.fileside.app/",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "utilities",
+  "description": "A slick file manager with unlimited panes. Create workspaces for your projects. Build layouts of your folders.",
+  "discount": "50% off",
+  "prices": [
+    {
+      "plan": "License",
+      "before": 33,
+      "after": 16.5
+    }
+  ],
+  "ends": "2026-11-30",
+  "terms": "23-30 Nov. Code: BLKFRD26"
+}

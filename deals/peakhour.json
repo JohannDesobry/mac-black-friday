@@ -1,0 +1,20 @@
+{
+  "name": "PeakHour",
+  "url": "https://peakhour.app",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "utilities",
+  "description": "Real-time network, Wi-Fi and bandwidth monitor for the Mac menu bar.",
+  "discount": "30% off",
+  "prices": [
+    {
+      "plan": "Lifetime",
+      "before": 49.99,
+      "after": 34.99
+    }
+  ],
+  "ends": "2026-12-01",
+  "starts": "2026-11-27",
+  "terms": "Automatically applied; lifetime purchase on the Mac App Store, $49.99 → $34.99; 2026-11-27 to 2026-12-01"
+}
