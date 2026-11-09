@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T13:16:57.249Z",
+  "updatedAt": "2026-11-09T13:17:09.919Z",
   "categories": [
     {
       "id": "ai",
@@ -168,6 +168,28 @@
       "ends": "2026-12-04",
       "starts": "2026-11-25",
       "terms": "With code INFINIBLACK; 2026-11-25 to 2026-12-04"
+    },
+    {
+      "id": "iruka",
+      "name": "Iruka",
+      "url": "https://iruka.sh/black-friday",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "Native file manager for Mac with dual panes, previews, and a terminal that follows your folder.",
+      "discount": "30% off",
+      "code": "BF30",
+      "prices": [
+        {
+          "plan": "License",
+          "before": 19.99,
+          "after": 13.99
+        }
+      ],
+      "ends": "2026-12-03",
+      "starts": "2026-11-06",
+      "terms": "BF30; new licences only, one-time purchase; 2026-11-06 to 2026-12-03"
     },
     {
       "id": "ktool",
