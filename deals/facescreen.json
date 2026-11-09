@@ -1,0 +1,21 @@
+{
+  "name": "FaceScreen",
+  "url": "https://facescreen.app",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "audio-video",
+  "description": "Floating camera and text overlays with a ring light for recordings and video calls.",
+  "discount": "30% off ($5.99 → $4.19)",
+  "code": "FACESCREEN30",
+  "prices": [
+    {
+      "plan": "License",
+      "before": 5.99,
+      "after": 4.19
+    }
+  ],
+  "ends": "2026-12-02",
+  "starts": "2026-11-18",
+  "terms": "FACESCREEN30; direct website purchase, one-time payment; 2026-11-18 to 2026-12-02"
+}

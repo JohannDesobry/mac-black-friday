@@ -1,0 +1,21 @@
+{
+  "name": "Almighty",
+  "url": "https://indiegoodies.com/almighty",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "utilities",
+  "description": "Over 100 Mac tweaks and utilities in one native app, from hidden settings to notch actions.",
+  "discount": "50% off",
+  "code": "INDIEGOODIESBF26",
+  "prices": [
+    {
+      "plan": "Lifetime",
+      "before": 14.99,
+      "after": 7.49
+    }
+  ],
+  "terms": "Lifetime license.",
+  "starts": "2026-11-20",
+  "ends": "2026-11-30"
+}
