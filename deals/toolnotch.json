@@ -1,0 +1,14 @@
+{
+  "name": "Toolnotch",
+  "url": "https://toolnotch.app/pricing?ref=boltai-bf",
+  "platforms": ["macOS"],
+  "category": "utilities",
+  "description": "Turns the MacBook notch into a live island: window snapping, clipboard history, AI usage limits, break reminders and more.",
+  "discount": "75% off, lifetime $4.99",
+  "code": "BOLTAIBF",
+  "prices": [{ "plan": "Lifetime", "before": 19.99, "after": 4.99 }],
+  "starts": "2026-11-20",
+  "ends": "2026-12-15",
+  "terms": "Code BOLTAIBF at checkout; one-time purchase, all future tools included; macOS 15+",
+  "makerUrl": "https://x.com/hijooh_"
+}
