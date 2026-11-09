@@ -1,0 +1,20 @@
+{
+  "name": "Oil Studio",
+  "url": "https://studio.oiloil.org/en/#price",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "audio-video",
+  "description": "Native macOS screen recorder and transcript video editor with auto zoom on clicks, smooth cursor, on-device Whisper captions, and AI agent CLI.",
+  "discount": "20% off ($49 → $39)",
+  "prices": [
+    {
+      "plan": "License",
+      "before": 49,
+      "after": 39
+    }
+  ],
+  "ends": "2026-12-01",
+  "starts": "2026-11-07",
+  "terms": "Automatically applied; one-time purchase for 2 Macs, free trial; 2026-11-07 to 2026-12-01"
+}

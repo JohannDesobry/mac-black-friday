@@ -1,0 +1,21 @@
+{
+  "name": "Aurio",
+  "url": "https://aurio.dev/",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "utilities",
+  "description": "Remove background noise from your microphone in real time on Mac, on-device with no account.",
+  "discount": "25% off ($40 → $30)",
+  "code": "BLACKFRIDAY26",
+  "prices": [
+    {
+      "plan": "License",
+      "before": 40,
+      "after": 30
+    }
+  ],
+  "ends": "2026-12-01",
+  "starts": "2026-11-24",
+  "terms": "BLACKFRIDAY26; keep the app with one year of updates; 2026-11-24 to 2026-12-01"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "KeyScreen",
+  "url": "https://keyscreen.app",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "utilities",
+  "description": "Show keystrokes on screen for tutorials, streams, and demos on Mac.",
+  "discount": "30% off ($5.99 → $4.19)",
+  "code": "KEYSCREEN30",
+  "prices": [
+    {
+      "plan": "License",
+      "before": 5.99,
+      "after": 4.19
+    }
+  ],
+  "ends": "2026-12-02",
+  "starts": "2026-11-18",
+  "terms": "KEYSCREEN30; direct website purchase, one-time payment; 2026-11-18 to 2026-12-02"
+}

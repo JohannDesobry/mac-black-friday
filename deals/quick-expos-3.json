@@ -1,0 +1,21 @@
+{
+  "name": "Quick Exposé 3",
+  "url": "https://noteifyapp.com/quick-expose/",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "utilities",
+  "description": "Classic Exposé on modern macOS.",
+  "discount": "30% off ($39.99 → $27.99)",
+  "code": "MACPLUSBLACKFRIDAY26",
+  "prices": [
+    {
+      "plan": "License",
+      "before": 39.99,
+      "after": 27.99
+    }
+  ],
+  "ends": "2026-11-30",
+  "starts": "2026-11-01",
+  "terms": "MACPLUSBLACKFRIDAY26; 2026-11-01 to 2026-11-30"
+}
