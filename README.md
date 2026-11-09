@@ -38,6 +38,7 @@ Hi! I build native Mac and iOS apps and maintain this list. Follow me on [X](htt
 
 | App | Platforms | What it does | Deal |
 | --- | --- | --- | --- |
+| [Aevo](https://aevo.so/en) | macOS | Task board with tiles and calendar sync for macOS and web. | **30% off** · Direct purchase from the website; yearly discount applies to the first year; 2026-11-27 to 2026-11-30 · until Nov 30 |
 | [Cozy](https://cozyjournal.app) | macOS, iOS | Private journal for Mac, Windows, and iPhone with entries stored as local files. | **50% off ($49 → $24.50)** · code **BLACKFRIDAY** · License ~~$49~~ $24.50 · BLACKFRIDAY; one-time purchase; 2026-11-23 to 2026-11-30 (Pacific time) · until Nov 30 |
 | [Deckloud](https://deckloud.com/black-friday/) | macOS, iOS, iPadOS | Native Nextcloud Deck app for iPhone, iPad, Android, Mac, Windows, and Linux, with offline sync to your own server. | **40% off** · code **BF2026** · Lifetime ~~$39~~ $22.99 · Automatically applied on the App Store and Google Play; one-time purchase; desktop-only Pro $19 → $11.40 with BF2026; subscriptions excluded; 2026-11-27 to… · until Dec 2 |
 | [InfiniDesk](https://infinidesk.app/) | macOS | Create multiple desktop 'surfaces' on your Mac, each with its own layout of file and folder icons, widget visibility, and wallpaper. | **30% off ($12.99 → $8.99)** · code **INFINIBLACK** · License ~~$12.99~~ $8.99 · With code INFINIBLACK; 2026-11-25 to 2026-12-04 · until Dec 4 |
