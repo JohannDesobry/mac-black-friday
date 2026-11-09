@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T13:18:45.802Z",
+  "updatedAt": "2026-11-09T13:19:00.958Z",
   "categories": [
     {
       "id": "ai",
@@ -190,6 +190,30 @@
       "ends": "2026-11-30",
       "starts": "2026-11-23",
       "terms": "BLACKFRIDAY; one-time purchase; 2026-11-23 to 2026-11-30 (Pacific time)"
+    },
+    {
+      "id": "deckloud",
+      "name": "Deckloud",
+      "url": "https://deckloud.com/black-friday/",
+      "platforms": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "category": "productivity",
+      "description": "Native Nextcloud Deck app for iPhone, iPad, Android, Mac, Windows, and Linux, with offline sync to your own server.",
+      "discount": "40% off",
+      "code": "BF2026",
+      "prices": [
+        {
+          "plan": "Lifetime",
+          "before": 39,
+          "after": 22.99
+        }
+      ],
+      "ends": "2026-12-02",
+      "starts": "2026-11-27",
+      "terms": "Automatically applied on the App Store and Google Play; one-time purchase; desktop-only Pro $19 → $11.40 with BF2026; subscriptions excluded; 2026-11-27 to…"
     },
     {
       "id": "dockview-2",
