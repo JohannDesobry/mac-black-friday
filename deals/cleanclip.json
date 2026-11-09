@@ -1,0 +1,21 @@
+{
+  "name": "CleanClip",
+  "url": "https://pricing.cleanclip.cc/src",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "utilities",
+  "description": "Minimalist clipboard manager for Mac with searchable history, smart lists, quick paste and Paste Stack.",
+  "discount": "30% off",
+  "code": "BF2026",
+  "prices": [
+    {
+      "plan": "License",
+      "before": 19.99,
+      "after": 13.99
+    }
+  ],
+  "ends": "2026-12-15",
+  "starts": "2026-11-04",
+  "terms": "BF2026; one-time purchase; 2026-11-04 to 2026-12-15"
+}
