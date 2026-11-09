@@ -1,0 +1,22 @@
+{
+  "name": "Margin",
+  "url": "https://appsbymo.app/margin/",
+  "platforms": [
+    "macOS",
+    "iOS"
+  ],
+  "category": "productivity",
+  "description": "Menu-bar day planner: type a plain sentence and it becomes an Apple Reminder or Calendar event on a live day timeline.",
+  "discount": "50% off",
+  "code": "BLACKFRIDAY",
+  "prices": [
+    {
+      "plan": "License",
+      "before": 9.99,
+      "after": 4.99
+    }
+  ],
+  "ends": "2026-12-01",
+  "starts": "2026-11-09",
+  "terms": "with code BLACKFRIDAY at appsbymo.app (regular $9.99); Mac App Store $9.99 $4.99, no code; App Store (iPhone) $5.99 $2.99, no code. Nov 9 - Dec 1, 2026"
+}
