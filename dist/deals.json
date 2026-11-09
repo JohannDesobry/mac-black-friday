@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T13:22:32.898Z",
+  "updatedAt": "2026-11-09T13:22:46.463Z",
   "categories": [
     {
       "id": "ai",
@@ -860,6 +860,27 @@
       "ends": "2026-12-02",
       "starts": "2026-11-18",
       "terms": "PRESENTIFY30; direct website purchase, one-time payment; 2026-11-18 to 2026-12-02"
+    },
+    {
+      "id": "pretty-progress",
+      "name": "Pretty Progress",
+      "url": "https://prettyprogress.app/download",
+      "platforms": [
+        "iOS"
+      ],
+      "category": "productivity",
+      "description": "Beautiful countdown and progress bar widgets to visualise and track your events and deadlines.",
+      "discount": "50% off",
+      "prices": [
+        {
+          "plan": "Lifetime",
+          "before": 59.99,
+          "after": 29.99
+        }
+      ],
+      "terms": "Automatically applied in the app; no code needed; lifetime one-time purchase; 2026-11-20 to 2026-12-01",
+      "starts": "2026-11-20",
+      "ends": "2026-12-01"
     },
     {
       "id": "proxyman",
