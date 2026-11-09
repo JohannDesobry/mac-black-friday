@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T13:22:08.078Z",
+  "updatedAt": "2026-11-09T13:22:21.146Z",
   "categories": [
     {
       "id": "ai",
@@ -911,6 +911,27 @@
       "ends": "2026-12-01",
       "starts": "2026-11-12",
       "terms": "BLACK2026FRIDAY50; automatically applied on the website; 2026-11-12 to 2026-12-01"
+    },
+    {
+      "id": "snowwall",
+      "name": "SnowWall",
+      "url": "https://snowwall.app",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "Weather for the Mac desktop: snow settles on your windows and slides off when you drag them; rain fogs the glass.",
+      "discount": "33% off ($14.99 → $9.99)",
+      "prices": [
+        {
+          "plan": "License",
+          "before": 14.99,
+          "after": 9.99
+        }
+      ],
+      "ends": "2026-12-01",
+      "starts": "2026-11-27",
+      "terms": "Automatically applied in the Mac App Store; SnowWall Pro one-time in-app purchase, free download; 2026-11-27 to 2026-12-01"
     },
     {
       "id": "spacebroom",
