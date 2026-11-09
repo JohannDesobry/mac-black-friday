@@ -53,6 +53,12 @@ Hi! I build native Mac and iOS apps and maintain this list. Follow me on [X](htt
 | --- | --- | --- | --- |
 | [KTool](https://ktool.io/pricing#lifetime) | macOS, iOS | Send articles, newsletters and RSS feeds to your Kindle, from your browser or your phone. | **Lifetime ~~$179~~ $149** · Everything in Platinum, pay once · until Dec 1 |
 
+### Design and Photo
+
+| App | Platforms | What it does | Deal |
+| --- | --- | --- | --- |
+| [Bindrik](https://bindrik.com/en) | macOS | Create Amazon KDP book interiors and covers with calculated bleed, gutter, and spine width, offline on Mac. | **43% off ($69 → $39)** · code **BLACKFRIDAY2026** · License ~~$69~~ $39 · BLACKFRIDAY2026; one-time purchase; 2026-11-23 to 2026-11-30 · until Nov 30 |
+
 ### Audio and Video
 
 | App | Platforms | What it does | Deal |
