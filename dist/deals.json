@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T14:21:56.737Z",
+  "updatedAt": "2026-11-09T14:22:18.471Z",
   "categories": [
     {
       "id": "ai",
@@ -741,19 +741,22 @@
         "macOS"
       ],
       "category": "utilities",
-      "description": "Show keystrokes on screen for tutorials, streams, and demos on Mac.",
-      "discount": "30% off ($5.99 → $4.19)",
+      "description": "Shows the keys you press on screen, for tutorials, streams, and live demos. Native Mac app.",
+      "discount": "30% off",
       "code": "KEYSCREEN30",
       "prices": [
         {
-          "plan": "License",
+          "plan": "One-time purchase",
           "before": 5.99,
           "after": 4.19
         }
       ],
-      "ends": "2026-12-02",
+      "terms": "Code works on direct purchase from the website only (not the App Store or Setapp). One-time purchase, no subscription.",
       "starts": "2026-11-18",
-      "terms": "KEYSCREEN30; direct website purchase, one-time payment; 2026-11-18 to 2026-12-02"
+      "ends": "2026-12-02",
+      "maker": "Softal",
+      "makerUrl": "https://softal.io",
+      "icon": "https://raw.githubusercontent.com/rampatra/assets/main/KeyScreen/Icons/icon_512x512.png"
     },
     {
       "id": "kilobat-pro",
