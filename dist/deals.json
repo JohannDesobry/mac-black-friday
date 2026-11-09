@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T13:19:00.958Z",
+  "updatedAt": "2026-11-09T13:19:19.499Z",
   "categories": [
     {
       "id": "ai",
@@ -277,6 +277,48 @@
       "ends": "2026-12-02",
       "starts": "2026-11-19",
       "terms": "Automatically applied in the app; local prices vary; 2026-11-19 to 2026-12-02"
+    },
+    {
+      "id": "iknowmydisplay",
+      "name": "iKnowMyDisplay",
+      "url": "https://iknowmydisplay.com",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "Every display control macOS hides, in the menu bar: external monitor brightness, resolution, refresh rate, HDR, colour and a TV remote, plus Check this…",
+      "discount": "25% off",
+      "prices": [
+        {
+          "plan": "iKnow Suite, both apps",
+          "before": 7.99,
+          "after": 5.99
+        }
+      ],
+      "ends": "2026-12-01",
+      "starts": "2026-11-27",
+      "terms": "Suite at [iknowmydisplay.com/suite](https://iknowmydisplay.com/suite), automatically applied, no code needed; one-time purchase; Apple silicon, macOS 15 or…"
+    },
+    {
+      "id": "iknowmymac",
+      "name": "iKnowMyMac",
+      "url": "https://iknowmymac.com",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "Menu bar app that remembers what your Mac did while you weren't looking: what woke it, overnight battery drain by app, every USB device and new login items.…",
+      "discount": "25% off",
+      "prices": [
+        {
+          "plan": "iKnow Suite, both apps",
+          "before": 7.99,
+          "after": 5.99
+        }
+      ],
+      "ends": "2026-12-01",
+      "starts": "2026-11-27",
+      "terms": "Suite at [iknowmydisplay.com/suite](https://iknowmydisplay.com/suite), automatically applied, no code needed; one-time purchase; Apple silicon, macOS 15 or…"
     },
     {
       "id": "infinidesk",
