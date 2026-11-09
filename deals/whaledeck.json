@@ -1,0 +1,22 @@
+{
+  "name": "WhaleDeck",
+  "url": "https://apps.apple.com/us/app/docker-manager-gui-whaledeck/id1581548562",
+  "platforms": [
+    "macOS",
+    "iOS",
+    "iPadOS"
+  ],
+  "category": "developer",
+  "description": "Effortlessly manage and monitor your Docker servers on your iPhone, iPad, and Mac.",
+  "discount": "Lifetime 40% off ($57 → $35)",
+  "prices": [
+    {
+      "plan": "Lifetime",
+      "before": 57,
+      "after": 35
+    }
+  ],
+  "terms": "Automatically applied; no code needed; 2026-11-27 to 2026-12-1",
+  "starts": "2026-11-27",
+  "ends": "2026-12-01"
+}

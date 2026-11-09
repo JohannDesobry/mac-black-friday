@@ -1,0 +1,21 @@
+{
+  "name": "Wick",
+  "url": "https://appsbymo.app/wick/",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "productivity",
+  "description": "Every deadline as a burning wick on your Mac: tasks, loans, subscriptions and renewals counting down where you can see them.",
+  "discount": "50% off",
+  "code": "BLACKFRIDAY",
+  "prices": [
+    {
+      "plan": "License",
+      "before": 15.99,
+      "after": 7.99
+    }
+  ],
+  "ends": "2026-12-01",
+  "starts": "2026-11-09",
+  "terms": "with code BLACKFRIDAY at appsbymo.app (regular $14.99); Mac App Store $15.99 $7.99, no code. Nov 9 - Dec 1, 2026"
+}

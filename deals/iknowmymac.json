@@ -1,0 +1,20 @@
+{
+  "name": "iKnowMyMac",
+  "url": "https://iknowmymac.com",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "utilities",
+  "description": "Menu bar app that remembers what your Mac did while you weren't looking: what woke it, overnight battery drain by app, every USB device and new login items.…",
+  "discount": "25% off",
+  "prices": [
+    {
+      "plan": "iKnow Suite, both apps",
+      "before": 7.99,
+      "after": 5.99
+    }
+  ],
+  "ends": "2026-12-01",
+  "starts": "2026-11-27",
+  "terms": "Suite at [iknowmydisplay.com/suite](https://iknowmydisplay.com/suite), automatically applied, no code needed; one-time purchase; Apple silicon, macOS 15 or…"
+}

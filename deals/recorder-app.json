@@ -1,0 +1,20 @@
+{
+  "name": "Recorder.app",
+  "url": "https://apps.apple.com/app/apple-store/id6740995613?pt=551454&mt=8",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "audio-video",
+  "description": "Native Mac recorder: screen, windows, camera, mic and system audio at the same time, into separate, perfectly synced files.",
+  "discount": "60% off",
+  "prices": [
+    {
+      "plan": "Lifetime",
+      "before": 44.99,
+      "after": 17.99
+    }
+  ],
+  "ends": "2026-12-01",
+  "starts": "2026-11-20",
+  "terms": "Automatically applied on the Mac App Store; one-time Lifetime unlock (monthly and yearly plans not discounted); 2026-11-20 to 2026-12-01"
+}
