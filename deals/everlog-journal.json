@@ -1,0 +1,29 @@
+{
+  "name": "Everlog Journal",
+  "url": "https://apps.apple.com/app/everlog-journal/id1519935634",
+  "platforms": [
+    "iOS",
+    "iPadOS",
+    "macOS"
+  ],
+  "category": "writing",
+  "description": "Private journal for iPhone, iPad and Mac: Markdown entries, photos, places, moods and workouts, synced through iCloud",
+  "discount": "50% off Premium",
+  "prices": [
+    {
+      "plan": "Lifetime",
+      "before": 59.99,
+      "after": 29.99
+    },
+    {
+      "plan": "Yearly (first year)",
+      "before": 29.99,
+      "after": 14.99
+    }
+  ],
+  "terms": "No code needed: the offer appears in the app for anyone not on Premium yet. The yearly renews at $29.99. US prices; local prices vary.",
+  "starts": "2026-11-27",
+  "ends": "2026-12-01",
+  "maker": "Wessley Roche",
+  "makerUrl": "https://everlog.app"
+}
