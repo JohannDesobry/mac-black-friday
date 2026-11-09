@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T13:16:00.513Z",
+  "updatedAt": "2026-11-09T13:16:14.600Z",
   "categories": [
     {
       "id": "ai",
@@ -89,6 +89,21 @@
       "featured": true
     },
     {
+      "id": "chute",
+      "name": "Chute",
+      "url": "https://appsbymo.app/chute/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "A drop tray for Mac: shake a file while you drag it, then one key zips, resizes, converts, renames, AirDrops or sends it to your other Mac.",
+      "discount": "50% off",
+      "code": "BLACKFRIDAY",
+      "ends": "2026-12-01",
+      "starts": "2026-11-09",
+      "terms": "with code BLACKFRIDAY at appsbymo.app (regular $14.99). Nov 9 - Dec 1, 2026"
+    },
+    {
       "id": "cozy",
       "name": "Cozy",
       "url": "https://cozyjournal.app",
@@ -134,6 +149,29 @@
       "maker": "Daniel Nguyen",
       "makerUrl": "https://x.com/daniel_nguyenx",
       "featured": true
+    },
+    {
+      "id": "margin",
+      "name": "Margin",
+      "url": "https://appsbymo.app/margin/",
+      "platforms": [
+        "macOS",
+        "iOS"
+      ],
+      "category": "productivity",
+      "description": "Menu-bar day planner: type a plain sentence and it becomes an Apple Reminder or Calendar event on a live day timeline.",
+      "discount": "50% off",
+      "code": "BLACKFRIDAY",
+      "prices": [
+        {
+          "plan": "License",
+          "before": 9.99,
+          "after": 4.99
+        }
+      ],
+      "ends": "2026-12-01",
+      "starts": "2026-11-09",
+      "terms": "with code BLACKFRIDAY at appsbymo.app (regular $9.99); Mac App Store $9.99 $4.99, no code; App Store (iPhone) $5.99 $2.99, no code. Nov 9 - Dec 1, 2026"
     },
     {
       "id": "pdf-pals",
@@ -188,6 +226,65 @@
       "ends": "2026-11-30",
       "starts": "2026-11-23",
       "terms": "BLACKFRIDAY; one-time purchase; 2026-11-23 to 2026-11-30 (Pacific time)"
+    },
+    {
+      "id": "scry",
+      "name": "Scry",
+      "url": "https://appsbymo.app/scry/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "productivity",
+      "description": "Captures, annotates and files screenshots, records your screen, and makes the text in every image on your Mac searchable.",
+      "discount": "50% off",
+      "code": "BLACKFRIDAY",
+      "prices": [
+        {
+          "plan": "License",
+          "before": 24,
+          "after": 12
+        }
+      ],
+      "ends": "2026-12-01",
+      "starts": "2026-11-09",
+      "terms": "with code BLACKFRIDAY at appsbymo.app ($24 $12). Nov 9 - Dec 1, 2026"
+    },
+    {
+      "id": "what-happened",
+      "name": "What Happened",
+      "url": "https://appsbymo.app/whathappened/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "Tells you in plain words why your Mac is slow, hot or full, and fixes it with your OK.",
+      "discount": "50% off",
+      "code": "BLACKFRIDAY",
+      "ends": "2026-12-01",
+      "starts": "2026-11-09",
+      "terms": "with code BLACKFRIDAY at appsbymo.app (regular $13.99). Nov 9 - Dec 1, 2026"
+    },
+    {
+      "id": "wick",
+      "name": "Wick",
+      "url": "https://appsbymo.app/wick/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "productivity",
+      "description": "Every deadline as a burning wick on your Mac: tasks, loans, subscriptions and renewals counting down where you can see them.",
+      "discount": "50% off",
+      "code": "BLACKFRIDAY",
+      "prices": [
+        {
+          "plan": "License",
+          "before": 15.99,
+          "after": 7.99
+        }
+      ],
+      "ends": "2026-12-01",
+      "starts": "2026-11-09",
+      "terms": "with code BLACKFRIDAY at appsbymo.app (regular $14.99); Mac App Store $15.99 $7.99, no code. Nov 9 - Dec 1, 2026"
     }
   ]
 }

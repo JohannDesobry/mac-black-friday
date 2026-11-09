@@ -39,7 +39,10 @@ Hi! I build native Mac and iOS apps and maintain this list. Follow me on [X](htt
 | App | Platforms | What it does | Deal |
 | --- | --- | --- | --- |
 | [Cozy](https://cozyjournal.app) | macOS, iOS | Private journal for Mac, Windows, and iPhone with entries stored as local files. | **50% off ($49 → $24.50)** · code **BLACKFRIDAY** · License ~~$49~~ $24.50 · BLACKFRIDAY; one-time purchase; 2026-11-23 to 2026-11-30 (Pacific time) · until Nov 30 |
+| [Margin](https://appsbymo.app/margin/) | macOS, iOS | Menu-bar day planner: type a plain sentence and it becomes an Apple Reminder or Calendar event on a live day timeline. | **50% off** · code **BLACKFRIDAY** · License ~~$9.99~~ $4.99 · with code BLACKFRIDAY at appsbymo.app (regular $9.99); Mac App Store $9.99 $4.99, no code; App Store (iPhone) $5.99 $2.99, no code. Nov 9 - Dec 1, 2026 · until Dec 1 |
 | [PDF Pals](https://pdfpals.com/buy) | macOS | Chat with your documents on Mac with built-in local AI models. Word, Excel, PowerPoint, EPUB, Markdown and PDF. | **Lifetime ~~$249~~ $149** · Basic ~~$59~~ $47.20 · Plus ~~$99~~ $79.20 · until Dec 1 |
+| [Scry](https://appsbymo.app/scry/) | macOS | Captures, annotates and files screenshots, records your screen, and makes the text in every image on your Mac searchable. | **50% off** · code **BLACKFRIDAY** · License ~~$24~~ $12 · with code BLACKFRIDAY at appsbymo.app ($24 $12). Nov 9 - Dec 1, 2026 · until Dec 1 |
+| [Wick](https://appsbymo.app/wick/) | macOS | Every deadline as a burning wick on your Mac: tasks, loans, subscriptions and renewals counting down where you can see them. | **50% off** · code **BLACKFRIDAY** · License ~~$15.99~~ $7.99 · with code BLACKFRIDAY at appsbymo.app (regular $14.99); Mac App Store $15.99 $7.99, no code. Nov 9 - Dec 1, 2026 · until Dec 1 |
 
 ### Reading and Research
 
@@ -51,6 +54,8 @@ Hi! I build native Mac and iOS apps and maintain this list. Follow me on [X](htt
 
 | App | Platforms | What it does | Deal |
 | --- | --- | --- | --- |
+| [Chute](https://appsbymo.app/chute/) | macOS | A drop tray for Mac: shake a file while you drag it, then one key zips, resizes, converts, renames, AirDrops or sends it to your other Mac. | **50% off** · code **BLACKFRIDAY** · with code BLACKFRIDAY at appsbymo.app (regular $14.99). Nov 9 - Dec 1, 2026 · until Dec 1 |
 | [Picmal](https://picmal.app) | macOS | Convert, compress, and edit images, video, audio, and PDFs locally on Mac. | **50% off ($29 → $14.50)** · code **BLACKFRIDAY** · License ~~$29~~ $14.50 · BLACKFRIDAY; one-time purchase; 2026-11-23 to 2026-11-30 (Pacific time) · until Nov 30 |
+| [What Happened](https://appsbymo.app/whathappened/) | macOS | Tells you in plain words why your Mac is slow, hot or full, and fixes it with your OK. | **50% off** · code **BLACKFRIDAY** · with code BLACKFRIDAY at appsbymo.app (regular $13.99). Nov 9 - Dec 1, 2026 · until Dec 1 |
 
 <!-- deals:end -->
