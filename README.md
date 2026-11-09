@@ -91,4 +91,10 @@ Hi! I build native Mac and iOS apps and maintain this list. Follow me on [X](htt
 | --- | --- | --- | --- |
 | [Habit Pixel](https://habitpixel.com/get) | iOS | Offline habit tracker with pixel check-ins, streak goals, reminders, and widgets for iPhone and Android. | **33% off** · Lifetime ~~$29.99~~ $19.99 · Automatically applied in the app; local prices vary; 2026-11-19 to 2026-12-02 · until Dec 2 |
 
+### Finance
+
+| App | Platforms | What it does | Deal |
+| --- | --- | --- | --- |
+| [SubManager](https://submanager.app) | macOS, iOS, visionOS | Track subscriptions across iOS, macOS and visionOS and never miss a renewal. | **50% off** · Discount available from Nov 27 to Nov 30. During the discount period go to Settings -> SubManager+ to purchase · until Nov 30 |
+
 <!-- deals:end -->
