@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T13:24:19.802Z",
+  "updatedAt": "2026-11-09T13:24:45.785Z",
   "categories": [
     {
       "id": "ai",
@@ -270,6 +270,27 @@
       "terms": "BF2026; one-time purchase; 2026-11-04 to 2026-12-15"
     },
     {
+      "id": "connectwizard",
+      "name": "ConnectWizard",
+      "url": "https://apps.apple.com/us/app/asc-analytics-connectwizard/id6747314580",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "developer",
+      "description": "Unlock hidden App Store Connect Analytics.",
+      "discount": "50% off",
+      "prices": [
+        {
+          "plan": "License",
+          "before": 100,
+          "after": 50
+        }
+      ],
+      "terms": "Automatically applied; no code needed; 2026-11-27 to 2026-12-1",
+      "starts": "2026-11-27",
+      "ends": "2026-12-01"
+    },
+    {
       "id": "cooldock",
       "name": "CoolDock",
       "url": "https://cooldock.app",
@@ -384,6 +405,27 @@
       "terms": "BLACK2026FRIDAY50; automatically applied on the website; 2026-11-12 to 2026-12-01"
     },
     {
+      "id": "dockmagic",
+      "name": "DockMagic",
+      "url": "https://dockmagic.app/#dm-pricing",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "Widget Dock for macOS with calendars, clocks, system stats, and everyday controls.",
+      "discount": "50% off",
+      "prices": [
+        {
+          "plan": "Lifetime",
+          "before": 25,
+          "after": 12.99
+        }
+      ],
+      "ends": "2026-11-30",
+      "starts": "2026-11-03",
+      "terms": "Automatically applied; one-time purchase with lifetime updates; prices in USD; 2026-11-03 to 2026-11-30"
+    },
+    {
       "id": "dockview-2",
       "name": "DockView 2",
       "url": "https://noteifyapp.com/dockview/",
@@ -404,6 +446,21 @@
       "ends": "2026-11-30",
       "starts": "2026-11-01",
       "terms": "MACPLUSBLACKFRIDAY26; 2026-11-01 to 2026-11-30"
+    },
+    {
+      "id": "drivedex",
+      "name": "DriveDex",
+      "url": "https://apps.apple.com/us/app/fuel-consumption-drivedex/id6503341002",
+      "platforms": [
+        "iOS",
+        "iPadOS"
+      ],
+      "category": "utilities",
+      "description": "Track mileage and expenses for all your vehicles. Available for iOS, iPadOS, and visionOS.",
+      "discount": "Lifetime 50% off",
+      "terms": "Automatically applied; no code needed; 2026-11-27 to 2026-12-1",
+      "starts": "2026-11-27",
+      "ends": "2026-12-01"
     },
     {
       "id": "extrabar",
@@ -1273,6 +1330,20 @@
       "terms": "BF2026; 2026-11-16 to 2026-12-03"
     },
     {
+      "id": "umami-manager",
+      "name": "Umami Manager",
+      "url": "https://apps.apple.com/de/app/umami-analytics-manager/id6462423358",
+      "platforms": [
+        "iOS"
+      ],
+      "category": "developer",
+      "description": "Monitor & Analyze & Manage your Umami Analytics on the go.",
+      "discount": "Lifetime 25% off",
+      "terms": "Automatically applied; no code needed; 2026-11-27 to 2026-12-1",
+      "starts": "2026-11-27",
+      "ends": "2026-12-01"
+    },
+    {
       "id": "wavy-road",
       "name": "Wavy Road",
       "url": "https://apps.apple.com/dk/app/wavy-road-endless-driving/id6804942333",
@@ -1285,6 +1356,29 @@
       "ends": "2026-11-30",
       "starts": "2026-11-24",
       "terms": "Automatically applied to in-app purchases. No code needed. November 24–30, 2026."
+    },
+    {
+      "id": "whaledeck",
+      "name": "WhaleDeck",
+      "url": "https://apps.apple.com/us/app/docker-manager-gui-whaledeck/id1581548562",
+      "platforms": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "category": "developer",
+      "description": "Effortlessly manage and monitor your Docker servers on your iPhone, iPad, and Mac.",
+      "discount": "Lifetime 40% off ($57 → $35)",
+      "prices": [
+        {
+          "plan": "Lifetime",
+          "before": 57,
+          "after": 35
+        }
+      ],
+      "terms": "Automatically applied; no code needed; 2026-11-27 to 2026-12-1",
+      "starts": "2026-11-27",
+      "ends": "2026-12-01"
     },
     {
       "id": "what-happened",
